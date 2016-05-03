@@ -1,0 +1,32 @@
+<h1>Companys#index</h1>
+<p>Find me in app/views/companys/index.html.erb</p>
+
+<table>
+	<thead>
+		<tr>
+			<th>Company</th>
+			<th>Invoice Num</th>
+			<th>Invoice Date</th>
+			<th>Operation date</th>
+			<th>Amount</th>
+			<th>Reporter</th>
+			<th>Notes</th>
+			<th>Status</th>
+			<th>Kind</th>
+		</tr>
+	</thead>
+</table>	
+
+
+
+	<h4>Import That data</h4>
+	<%= form_tag upload_data_path, method: "post", multipart:true do%>
+	<%= label_tag :file, "set file"%>
+	<!-- <%= text_field_tag :file%> --> 
+	<%= file_field_tag :file %>
+	<%= submit_tag "Import CSV"%>
+	<%end%>
+
+
+
+			
