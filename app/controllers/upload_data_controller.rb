@@ -1,75 +1,64 @@
 class UploadDataController < ApplicationController
 
-require 'csv'
-
-
-def index
-	#@data = file
-	#@data = params[:file]
-	#csv = CSV.new(body, :headers => true, :header_converters => :symbol, :converters => :all)
-	#csv.to_a.map {|row| row.to_hash }
-
-
-	#@data = []
-	#CSV.foreach(file.path, headers: true) do |row|
-		#@data << row.to_hash
-end
-
-def create
-#file = params[:file]
-file = Rails.root.join(params[:file].original_filename)
-@data3 = Company.all
-#CSV.foreach(file, headers: true, row_sep:"\n") {|file| @data << file }
-@data2= SmarterCSV.process(file, headers: true, chunk_size:1000, col_sep: ",", remove_empty_values: false, :key_mapping => {:company => :company_id}) 
-
-
-@data2.each do |data2|
-
-data2.each do |h|
-
-	@data3.each do |t|
-		if h[:company_id] == t.name
-			h[:company_id] = t.id.to_i
-		end
+	def index
 	end
-		if  h[:company_id].class == String
-			h[:company_id] = 0
-		end
-end
-end
 
-
-@data2.each do |t|
-	t.each do |k|
-		@data = Operation.new
-		#@data3.each do |cos|
-		#if cos.name == k[:company_id] 
-		#	k[:company_id] = cos.id
-		#	@data4 << cos.id
-		#	@data5 << k[:company_id] 
-		#								end
-		#	end
-		k.each do |x,y|
-			@data[x] = y
+	def create
+		imported_row_true = 0
+		imported_row_false = 0
+		rows = 0
+		@data3 = Company.all
+		file = Rails.root.join(params[:file].original_filename)
+		@data= SmarterCSV.process(file, headers: true, chunk_size:1000, col_sep: ",", remove_empty_values: false, verbose: true, :key_mapping => {:company => :company_id})  
+	
+		@data.each do |data2|
+			data2.each do |h|
+				@data3.each do |t|
+					if h[:company_id] == t.name
+			   			h[:company_id] = t.id.to_i
 					end
-		@data.save
+				end		
+			
+				if h[:company_id].class == String
+					h[:company_id] = 0
+				end
+
+				if h[:kind] == nil
+					h[:kind] = "MISSING"
+				end
+			end
+		end
+
+		@data.each do |t|
+			t.each do |k|
+				rows +=1
+				data = Operation.new
+				k.each do |k,v|
+					data[k] = v
+				end
+			
+				if data.save 
+					imported_row_true+=1
+				else
+					imported_row_false+=1
+				end
+			end
+		end
+
+	
+		@operation = Operation.all
+		@operation.each do |kind2|
+			@kind = kind2.kind.split(";")
+			@kind.each_with_index do |kind,index| 
+				@category = Category.create(:operation_id => kind2["id"], :name=>kind)
+			end
+		end	
+
+		flash[:notice] = "All rows: #{rows}; imported successfully: #{imported_row_true}; not imported: #{imported_row_false}"
+		redirect_to companies_path
 	end
-end
-
-
-#File.open(Rails.root.join(file.original_filename), "r") {|file| @data << file.read }
-#@data << file.read
-#file.close
-
-render 'index'
-#CSV.foreach(file.path, headers: true) do |row|
-#		@data << row.to_hash
-#	end
-#@data = file
-#redirect_to action: 'index'
-end
-
-
-private
 
 end
+
+
+

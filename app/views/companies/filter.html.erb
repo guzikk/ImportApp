@@ -1,0 +1,31 @@
+<%= link_to "Back", action: 'index'%>
+<br><br>
+<table>
+	<thead>
+		<tr>
+			<th>Company; </th>
+			<th>Invoice Num; </th>
+			<th>Invoice Date; </th>
+			<th>Operation Date; </th>
+			<th>Amount; </th>
+			<th>Reporter; </th>
+			<th>Notes; </th>
+			<th>Status; </th>
+			<th>Kind; </th>
+		</tr>
+	</thead>
+</table>	
+
+<% @filtered_data.each do |operation| %>
+	Company: <%= operation.company.try(:name) %>
+	<%= operation.invoice_num%>
+	<%= operation.invoice_date.month%>
+	<%= operation.operation_date%>
+	<%= operation.amount%>
+	<%= operation.reporter%>
+	<%= operation.notes%>
+	<%= operation.status%>
+	<%= operation.kind%>
+	<br><br>
+<%end%>
+

@@ -1,14 +1,13 @@
 Rails.application.routes.draw do
-  resources :companys 
+  resources :companies 
   resources :upload_data do
     collection do
       get 'upload_file'
     end
   end
-root 'companys#index'
-    #get 'companys/index'
-  
-
+  post 'companies/filter' => 'companies#filter' 
+  post 'companies/export_data' => 'companies#export_data'   
+  root 'companies#index'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

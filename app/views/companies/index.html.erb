@@ -1,0 +1,57 @@
+<% if flash[:notice] %>
+  <h1>  <div class="notice"><%= flash[:notice] %></div> </h1>
+  <% end %>
+
+<h1>Imported Data</h1> 
+<br>
+<%= form_tag upload_data_path, method: "post", multipart:true do%>
+	<%= label_tag :file, "set file to import Data"%>
+	<%= file_field_tag :file %>
+	<%= submit_tag "Import CSV"%>
+<%end%>
+<br> 
+<%= form_tag( action:"filter", method:"post") do %>
+	<%= label_tag :filter_var, "Choose variable to filter:"%>
+	<%= select_tag :filter_var, options_for_select([["Status",:status],["Kind",:kind],["Invoice Number",:invoice_num],["Reporter",:reporter]]) %>
+	<%= text_field_tag :value %>
+	<%= submit_tag "Filter"%>
+<%end%>
+<br><br><br>
+
+<table>
+	<thead>
+		<tr>
+			<th>Company</th>
+			<th>Invoice Num</th>
+			<th>Invoice Date</th>
+			<th>Operation date</th>
+			<th>Amount</th>
+			<th>Reporter</th>
+			<th>Notes</th>
+			<th>Status</th>
+			<th>Kind</th>
+		</tr>
+	</thead>
+</table>	
+
+<% @companies.each_with_index do |company, index| %>
+	Company: <%= company.name %> | [Number of the operations: <%= company.operations.count %>] | [Average amount: <%= @average_amount[index] %>] | [Highest operation from the current month: <%=@highest_operation[index] %>] [Status accepted: <%= company.operations.accepted.count %>] 
+
+	<%= button_to "Export Data", companies_export_data_path(format: "csv", id: company.id )  %>
+
+	<br><br> 
+	<% @data = company.operations %> 
+	<% @data.each do |x| %>
+		Operation:
+		<%= x.invoice_num%>
+		<%= x.invoice_date.month%>
+		<%= x.operation_date%>
+		<%= x.amount%>
+		<%= x.reporter%>
+		<%= x.notes%>
+		<%= x.status%>
+		<%= x.kind%>
+		<br><br>
+	<%end%>
+	<br><br>
+<%end%>
