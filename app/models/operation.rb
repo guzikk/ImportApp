@@ -14,7 +14,7 @@ class Operation < ActiveRecord::Base
   scope :accepted, ->{where status: 'accepted'}
   scope :highest_from_current_month, lambda {where("operation_date > ? AND operation_date < ?", Time.now.beginning_of_month, Time.now.end_of_month)}
   scope :status, lambda { |value| where(:status  => value) }
-  scope :kind, lambda { |value| where(:kind  => value) }
+  #scope :kind, lambda { |value| where(:kind  => value) }
   scope :invoice_num, lambda { |value| where(:invoice_num  => value) }
   scope :reporter, lambda { |value| where(:reporter  => value) }
 

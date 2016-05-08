@@ -1,0 +1,713 @@
+company,invoice_num,invoice_date,operation_date,amount,reporter,notes,status,kind
+BP Biznes,B3963,2014-10-19,2014-10-11,10862.48,Miss Zola Hyatt,"Assumenda nobis sint nihil consectetur praesentium.
+Unde molestiae repellat animi assumenda.",rejected,negligible;Other
+ Big Company 1,B15428,07-12-2014,29-11-2014,16916.6,Elizabeth Emard,"Ut non dolorem quae ad est in.
+Consequatur dolor eveniet eos explicabo est eaque voluptatum.",rejected,client
+ SB Komputery,S37753,29-04-2015,21-04-2015,15491.15,Abelardo Wehner,Quas quibusdam quo molestiae doloribus ipsum sed.,other,negligible
+MS Szpadel,M10120,04/17/2015,04/13/2015,12225.20,Kaitlin Pouros,"Earum voluptatibus sit molestias reprehenderit.
+Accusantium similique officia quia est.
+Non qui voluptatum doloribus.
+Fugit hic dicta ex.",other,other;Important;Client
+ ACME,A80910,16-12-2013,10-12-2013,19796.78,Kianna Tremblay,Vitae et ab accusantium officiis repudiandae fugit sint.,accepted,Negligible;internal;client;delegation;Important
+Ostrzy Entertainment,O14602,10/27/2013,10/24/2013,14665.74,Miss Chyna Collier,Et qui eligendi.,accepted,important;Delegation;client
+TT Internet,T7834,03-05-2015,28-04-2015,11295.37,Lilla Nader,Nisi ratione quis corporis magnam.,other,
+Microsoft,M15808,2015-03-12,2015-03-04,14123.17,Isadore Kling,Aut maiores inventore.,rejected,
+ Big Company 1,B41471,15-06-2013,08-06-2013,16939.63,Leola McKenzie,Repudiandae nihil quia ex rerum magnam et quos.,rejected,internal;delegation;client;Important;Other
+ Comcast,C60657,04/11/2013,04/11/2013,19239.89,Orin Sauer MD,Laborum placeat officia harum qui neque quis quo.,other,
+" Monterail, Inc.",M90146,2015-05-14,2015-05-05,17684.9,Brigitte Fahey,Neque velit aperiam ut laudantium quos.,other,delegation;Client
+" Monterail, Inc.",M62874,2013-03-02,2013-02-26,17809.87,Kole Quigley MD,Tempore eos perspiciatis voluptatem cumque neque temporibus reprehenderit.,rejected,Other
+Comcast,C7080,06-01-2015,06-01-2015,17374.69,Deborah Bosco,Veritatis autem nulla eos quidem.,rejected,Internal;Delegation
+ Ostrzy Entertainment,O97100,01-06-2014,25-05-2014,11066.90,Gianni Jenkins,"Reprehenderit ullam voluptate est possimus.
+Quia vel quibusdam nulla quo.
+Nostrum et et assumenda architecto et consectetur cum.
+Qui quidem vel ab consequuntur sapiente provident eaque.",accepted,
+ Microsoft,M67610,04/21/2015,04/21/2015,13036.94,Sophia Rohan Jr.,Aut non aut ut.,accepted,negligible;important;other;internal
+ Company X,C18993,05-11-2014,30-10-2014,10508.12,Davion Ebert,"Sed incidunt nesciunt iusto non ad perferendis.
+Facere debitis exercitationem veritatis consectetur est qui.
+Doloribus qui qui totam.",rejected,negligible;Other;delegation
+ Microsoft,M11181,22-08-2013,22-08-2013,17336.58,Robyn Cummerata Sr.,Corrupti neque sunt atque ea odio quia.,accepted,Other;important
+TT Internet,T95456,02/16/2015,02/12/2015,17026.74,Lavern Jones,"Expedita exercitationem provident ullam animi facere ipsam.
+Consequuntur autem a aut minima.
+Id deserunt in quos ad.
+Consectetur a odio error non est eius.",other,delegation
+ACME,A97911,03/15/2013,03/08/2013,15169.16,Torrance Fadel,"Rerum eum rem eligendi quaerat.
+Fugiat quas suscipit quisquam.
+Placeat vero voluptatem quia est.",accepted,other;client;Important
+ KT Koty,K87016,02-01-2014,24-12-2013,10455.35,Angus Kiehn,Non quo recusandae blanditiis et ex architecto velit.,rejected,delegation
+ Microsoft,M70934,2015-01-18,2015-01-17,15535.0,Elena King,"Iure inventore sapiente doloremque delectus pariatur.
+Sit ut tempora laboriosam porro.
+Accusamus cum molestias accusantium ut illum.",rejected,Negligible;client;internal
+Microsoft,M28123,11/02/2013,10/24/2013,15051.63,Jerald Larson,"Laudantium sed ea est.
+Perferendis ut aspernatur qui voluptas.
+Asperiores atque consequatur aut.
+Voluptas aliquam in.",rejected,other
+ Microsoft,M28081,2015-01-13,2015-01-10,11413.21,Helena Pacocha,Quo corporis provident.,other,client
+ MS Szpadel,M37674,2014-01-02,2013-12-25,11581.52,Retha Sipes,Quisquam aut repellendus qui ut.,accepted,other
+BP Biznes,B38388,25-09-2012,23-09-2012,16900.94,Melvina Johnson,"Eum omnis sapiente iste in omnis est magni.
+Ex ut odit illo.
+Optio molestiae cupiditate ratione voluptatibus occaecati a quos.",other,negligible;client
+ Wesoła Gżegżółka,W30002,2013-01-05,2012-12-28,13256.54,Cyrus Legros,Est ullam iste eaque temporibus.,rejected,negligible;Client;Internal;Important;Delegation
+ Big Company 1,B81159,06/22/2013,06/19/2013,13366.66,Manuela Waelchi,"Enim voluptatem omnis deleniti.
+Magni ipsa laudantium id.
+Aperiam non mollitia dignissimos.",other,negligible;Delegation;other;Internal
+Company X,C91424,03/23/2013,03/18/2013,12925.36,Camille Pfeffer III,Qui culpa corrupti neque suscipit inventore.,other,
+ Comcast,C29605,13-12-2013,11-12-2013,16278.49,Nyasia Funk PhD,"Rerum expedita nostrum iure tempora.
+Nostrum fugit eum.
+Debitis asperiores assumenda numquam.",rejected,Negligible;other;client;delegation;Internal
+Company X,C95249,2013-07-26,2013-07-21,19846.19,Itzel Hayes,"Magni rerum et qui asperiores cupiditate a voluptatem.
+Fuga assumenda ipsum.",other,delegation
+ ACME,A78594,2014-10-09,2014-10-02,18872.67,Michele Emard,Fugit totam enim commodi alias.,rejected,negligible
+Wesoła Gżegżółka,W87718,2014-07-09,2014-06-30,12301.90,Tamara Hammes,Quo quia ad quia qui molestiae culpa.,rejected,
+ Company X,C26019,05/08/2013,05/01/2013,19081.1,Name Schneider DVM,Sunt quisquam vel.,rejected,internal;other;client;negligible
+ TT Internet,T98814,2013-03-27,,19358.2,Tyrique Christiansen,Non quibusdam quas.,rejected,Delegation;internal
+Company X,C91546,28-05-2013,25-05-2013,16706.69,Eleanora Osinski II,Autem alias et facilis officiis.,other,delegation;client;negligible
+ ACME,A64829,03/31/2014,03/26/2014,18525.52,Kole Greenfelder,"Veniam odit molestias libero ullam voluptatibus consequatur.
+Accusantium accusamus totam est officia voluptas beatae similique.",accepted,other;negligible
+ TT Internet,T12532,07/26/2013,07/22/2013,12989.79,Ms. Serenity Heller,Qui id ut quaerat ea velit nihil voluptate.,other,
+SB Komputery,S93869,02-05-2015,01-05-2015,11866.77,Dr. Stan Abshire,Blanditiis voluptatem aut dignissimos officiis quod.,rejected,important;Other;internal;delegation
+Comcast,C43263,23-05-2013,23-05-2013,13301.72,Carlie Connelly,Animi veritatis vel magni possimus.,other,delegation
+Ostrzy Entertainment,O57196,30-08-2013,25-08-2013,16775.31,Christop Lehner,Itaque tempore corporis beatae sit ut animi.,rejected,internal;delegation;client
+ BP Biznes,B12884,2014-01-18,2014-01-10,15819.61,Arianna Berge,Voluptate ipsam doloremque animi impedit perferendis maxime.,other,important;other;delegation;negligible;Internal
+ MS Szpadel,M87654,2013-07-03,2013-07-02,16108.99,Donato Hahn,Dolorum enim exercitationem at quis.,rejected,Other
+BP Biznes,B50016,2015-05-04,2015-05-03,11604.92,Stefan Funk,Odit quidem magni doloremque vero excepturi praesentium voluptate.,accepted,important;negligible;other;client
+" Monterail, Inc.",M28418,11/24/2012,11/24/2012,15189.2,Giuseppe Ferry,Reiciendis ipsum molestias.,rejected,internal;delegation;Client;important;negligible
+ ACME,A88813,2013-08-08,2013-08-02,12022.10,Destany Koch,"Cupiditate soluta voluptatem temporibus voluptas quasi.
+Ut numquam eos dolores natus delectus.",rejected,delegation;Important
+TT Internet,T3610,30-04-2013,22-04-2013,15604.62,Gregoria Reichert,"Modi molestias et.
+Sed temporibus ut.
+Maxime ducimus nobis officia vel similique eos sapiente.",accepted,delegation;important;negligible;other
+ Comcast,C16713,2013-05-29,2013-05-25,11599.74,Bessie Runolfsson,Dolorum eos omnis et.,accepted,Important;delegation;client;Negligible;Internal
+"Monterail, Inc.",M21026,11/24/2014,11/22/2014,10655.72,Delores Cartwright,Omnis consequatur praesentium enim maxime eos.,accepted,important;other
+TT Internet,T930,03/19/2014,03/17/2014,17550.10,Devan Wuckert,"Fugit ratione non cum vitae eum.
+Ut saepe molestias qui impedit nam.
+Architecto minus corporis voluptates nihil voluptatum autem.",other,negligible
+ ACME,A84711,11/29/2014,11/22/2014,12276.26,Ciara Miller,"Dolore tenetur ab aliquam officiis quis laborum.
+Officiis cupiditate ex.
+Debitis perferendis dolores omnis.",other,client
+ KT Koty,K32477,01/01/2013,12/26/2012,10747.46,Brielle Funk Jr.,"Et omnis ut nobis earum hic.
+Tempora deserunt quod nostrum.",rejected,other;Delegation
+ ACME,A29941,23-01-2015,19-01-2015,13001.66,Willard Gleason,"Alias ea exercitationem laboriosam libero rem quae.
+Voluptatem accusamus fuga qui sint beatae in omnis.
+Aspernatur ut minus quibusdam aut aut.",other,internal;Negligible;delegation;Client
+ ACME,A55755,2013-03-05,2013-03-04,17781.96,Mrs. Kim Ward,"Facere deleniti optio quia.
+Dolorum necessitatibus qui quae.
+Provident odio in magni eos voluptatibus.
+Est aut earum qui distinctio.",accepted,
+Company X,C64300,07-02-2014,31-01-2014,12385.60,Ashton Keeling,Voluptatem aut incidunt magnam exercitationem tempore sequi ipsam.,rejected,
+ Company X,C95542,05-08-2013,05-08-2013,17390.65,Ms. Rebeka Hayes,Et dolores ut.,rejected,important;negligible;internal
+ Ostrzy Entertainment,O64281,02/20/2015,02/12/2015,10840.15,Abelardo Cummings,Cumque qui tempora ut qui dolor.,other,Delegation
+"Monterail, Inc.",M30293,08/04/2013,08/04/2013,14532.0,Sebastian Williamson,"Soluta cumque autem molestiae molestiae perferendis omnis.
+Nihil qui vel nulla aliquam facere et.
+Voluptatem sed quo.",accepted,client
+ Microsoft,M11387,03/08/2015,03/01/2015,13137.11,Ms. Cristina O'Connell,Qui tempora et iste.,accepted,delegation;internal;other;important;Client
+Wesoła Gżegżółka,W99317,03/08/2014,03/06/2014,15585.19,Hailie Lubowitz,Est sed aperiam exercitationem numquam iusto voluptatem.,rejected,negligible;client
+Big Company 1,B36725,08/25/2013,08/19/2013,12230.43,Davin Daniel,Quidem a in sed impedit qui et aut.,accepted,client;Internal;important;delegation
+ BP Biznes,B58970,11-09-2013,08-09-2013,11652.14,Mrs. Jaquan Fritsch,Placeat natus molestiae.,other,important;client
+ TT Internet,T14316,08/14/2014,08/05/2014,12473.65,Daron Satterfield Sr.,"Ut voluptates rerum.
+Quasi quos a.",other,internal;other;client;important;Negligible
+ Comcast,C45952,2014-03-02,2014-03-01,14245.88,Gerda Weissnat IV,Placeat dignissimos sit.,rejected,
+BP Biznes,B86725,2015-04-18,2015-04-09,11075.32,Marvin Hilpert III,Odio aliquid quis nisi.,rejected,important;Internal;client
+Comcast,C13356,10-10-2013,02-10-2013,16880.53,Daren Bailey,Inventore ab libero molestiae porro.,accepted,Delegation;important;Client
+KT Koty,K56088,2015-03-04,2015-03-01,14619.97,Isai Olson,"Ea eius facilis.
+Odio perspiciatis laboriosam nemo.
+Consequatur ut voluptatem nam facilis molestias consequatur voluptatem.",accepted,internal;other;Delegation;Important
+Comcast,C90490,22-04-2015,14-04-2015,16437.47,Marcia Gusikowski I,Alias eaque nobis corporis debitis.,other,
+ TT Internet,T23701,09/04/2012,08/27/2012,10017.6,Albert Runolfsdottir,"Voluptatem sint atque sunt velit laborum beatae doloribus.
+Blanditiis dolores itaque modi fugit praesentium eveniet qui.",rejected,internal;Other;Important;delegation
+ Ostrzy Entertainment,O90287,04/26/2013,04/20/2013,12913.36,Lucinda Howell,In quas maxime eligendi.,accepted,Negligible;important;delegation
+MS Szpadel,M5411,21-02-2014,16-02-2014,15568.96,Zack Nolan,"Quam occaecati aliquid nam odit eos in.
+Facilis qui soluta cumque numquam.",rejected,important;Delegation;Negligible
+BP Biznes,B57607,13-07-2014,11-07-2014,11483.50,Mr. Cali Vandervort,Rerum quisquam atque reprehenderit ad.,rejected,
+ Company X,C13228,09/22/2012,09/16/2012,14596.73,Mattie Walsh,"Nisi consectetur minus eius corporis.
+Velit dolores dolor ipsam nihil ea.
+Quidem in quasi temporibus perferendis sequi aut iusto.",accepted,internal;client;negligible
+ BP Biznes,B44122,2013-12-01,2013-11-28,11005.83,Mr. Jamal Miller,"Eligendi alias minima placeat quia.
+Perspiciatis molestiae officiis ipsum expedita.
+Architecto veniam qui et aliquam non.
+Voluptatum doloremque voluptas aut.",other,important
+ SB Komputery,S919,01-03-2015,24-02-2015,11907.89,Ken Hills,"Mollitia fugiat vel molestias.
+Totam accusamus eum natus.
+At iure voluptates saepe ea molestiae hic.
+Quae voluptatem nam.",accepted,Delegation
+Company X,C45906,05-12-2013,26-11-2013,17866.95,Aliya Gislason II,Laborum porro quaerat rerum dicta harum consequatur.,accepted,Internal;Client
+ TT Internet,T46098,25-10-2013,20-10-2013,11085.31,Sidney Padberg,Nihil corporis ratione voluptatem hic tempora accusantium ipsa.,accepted,delegation;other
+ ACME,A19607,12/08/2013,11/30/2013,13256.52,Arlene Nienow,Voluptate architecto et deserunt est sed enim explicabo.,rejected,
+Wesoła Gżegżółka,W25478,05/20/2015,05/20/2015,10513.67,Jerad Tremblay,Velit fugiat fuga quia dolores.,accepted,internal;negligible;Important
+ Comcast,C1311,06-07-2013,01-07-2013,16779.9,Dr. Keenan Block,Vel illum dolorum nemo.,rejected,Other;Negligible;client;Delegation
+Wesoła Gżegżółka,W20631,11/30/2013,11/29/2013,17160.58,Miss Camille Stoltenberg,Nihil aut sit soluta tenetur itaque quidem.,other,
+ACME,A90483,08/21/2013,08/13/2013,14961.59,Roman Moore,"Inventore consequatur est necessitatibus commodi debitis et.
+Nostrum non officiis.
+Autem voluptatibus consequuntur cupiditate assumenda similique tempora.
+Deserunt unde sit iure rerum et corporis.",accepted,Other;internal;Client;negligible
+" Monterail, Inc.",M50378,2014-07-08,2014-07-07,17297.11,Lonnie Schimmel,Voluptates deleniti esse eligendi voluptatem porro.,accepted,important
+Microsoft,M38070,2014-11-06,2014-11-04,14759.0,Joanny Batz,Non saepe sit totam at iusto dolores.,rejected,Important
+SB Komputery,S80337,2013-09-07,2013-08-31,14170.91,Mina Stracke,Fugit quas provident quaerat soluta nihil quia.,other,internal
+"Monterail, Inc.",M60986,31-07-2014,30-07-2014,12844.64,Trystan Beier Sr.,"Sed aperiam dolores.
+Nam dignissimos et molestiae fugit sequi in.",other,internal;other
+Company X,C17489,03/22/2013,03/19/2013,10058.25,Aniyah Koss,Error aspernatur cum dicta ut magnam consequatur aut.,rejected,negligible;other;Important;delegation;client
+Microsoft,M27783,2014-04-15,2014-04-07,16825.40,Dwight Hilll III,Ut repellat et.,other,
+SB Komputery,S85375,16-11-2014,14-11-2014,15698.28,Maud Yost,Suscipit eos dolore facere.,accepted,
+BP Biznes,B70841,07/20/2013,07/18/2013,18298.93,Pierre Yundt,"Aliquid voluptas et provident.
+Omnis assumenda laudantium ipsam.
+Dolores placeat et quo excepturi enim.
+Consequatur commodi aliquam.",other,Delegation;client;Important;other;internal
+ Microsoft,M98166,05/27/2013,05/21/2013,13465.38,Tabitha Casper,Repudiandae autem alias rerum dolorem.,other,negligible;important;internal
+ACME,A41265,2014-09-24,2014-09-21,18992.1,Mr. Kiley Batz,"Voluptas esse aut dicta.
+Dolores ut laboriosam sit minima.
+Tempore quaerat sed qui modi molestias.",other,other;Internal;Negligible;important;client
+ MS Szpadel,M21043,2013-08-12,2013-08-10,14358.0,Weldon Stehr,Qui ratione et voluptatem.,rejected,Internal
+ Ostrzy Entertainment,O85274,2013-01-10,2013-01-05,12267.71,Mrs. Felicita Lockman,Sit nulla odit sit velit at.,other,
+ Comcast,C16392,02-05-2013,23-04-2013,16379.69,Dariana Treutel,Soluta fugit a in porro incidunt.,rejected,other;internal;Important;delegation
+Comcast,C84650,21-06-2014,14-06-2014,11669.44,Della Sipes,"Tenetur qui blanditiis quia.
+Consectetur in soluta dolor debitis tempore aut.",other,delegation;internal
+Comcast,C48408,2012-10-04,2012-09-29,12674.67,America Hartmann V,Praesentium quasi aut at.,accepted,delegation
+BP Biznes,B62904,2014-01-13,2014-01-07,16193.24,Shany Botsford V,Optio quia ut omnis repellendus rerum.,rejected,delegation;Important;negligible;internal
+ Big Company 1,B66495,2013-10-10,2013-10-05,10849.72,Luisa Bartell,Similique dolor fuga eum voluptatem accusantium expedita.,rejected,Negligible
+KT Koty,K98796,29-11-2012,28-11-2012,13566.55,Mr. Bo Green,"Nesciunt natus voluptates ipsam sunt nostrum aliquid.
+Dignissimos doloremque autem ut.",rejected,negligible;delegation;Internal;important
+ACME,A52459,07/02/2013,06/30/2013,16778.29,Gayle Renner,"Aliquid incidunt iste aut voluptatibus.
+Rerum provident sed ducimus architecto nemo consequuntur.
+Pariatur dolorum asperiores deserunt sapiente velit accusantium.",accepted,negligible;delegation
+Wesoła Gżegżółka,W66039,11/13/2012,11/07/2012,11054.98,Hunter Jacobs DVM,Asperiores officiis ut.,rejected,client;negligible;Delegation
+ Microsoft,M45102,29-09-2013,21-09-2013,10604.94,Ayden Marks Jr.,"Error dolore dicta in architecto neque.
+Nam molestiae magni voluptatem necessitatibus.",accepted,Delegation;other
+"Monterail, Inc.",M26379,2014-11-13,2014-11-08,18286.13,Georgiana Bins,Sit ducimus est adipisci ex.,rejected,other;negligible;internal
+ Wesoła Gżegżółka,W19627,06/14/2013,06/13/2013,14097.60,Caitlyn Murazik,Eligendi est amet.,accepted,client;internal
+ BP Biznes,B63842,2015-01-27,2015-01-18,17696.29,Ardith Nader,"Occaecati ipsam voluptas non temporibus.
+Delectus modi placeat repudiandae.",other,Client;negligible
+ Company X,C23442,08/02/2014,07/31/2014,18915.73,Simeon Kirlin,Perferendis dolores velit sit cupiditate voluptatem.,rejected,other;important;negligible
+ACME,A12942,17-10-2014,13-10-2014,18281.6,Theodora Ledner,"Unde aspernatur eum quia et quis perspiciatis autem.
+Eum nisi voluptatum sint veritatis rem sint modi.
+Eaque vel expedita.
+Voluptatem quisquam animi porro repudiandae commodi illum.",accepted,
+ ACME,A82846,02/11/2013,02/10/2013,17943.7,Santino Torp,Sed commodi totam consequatur.,accepted,Other;internal;client
+ Comcast,C30681,2014-05-25,2014-05-20,12898.42,Judy Renner,Eos voluptatem at est et.,other,Important;other
+SB Komputery,S68650,08/18/2014,08/17/2014,11724.34,Ms. Ephraim Bayer,Quam id voluptatem temporibus rerum dolores omnis.,other,delegation;important;Other;negligible
+" Monterail, Inc.",M47383,04/29/2013,04/27/2013,18703.10,Myles Franecki,At et qui ex qui.,rejected,client;other;internal;negligible;delegation
+"Monterail, Inc.",M19988,2013-05-21,2013-05-15,11937.29,Mr. Enola Willms,Exercitationem qui rerum ea.,rejected,delegation;client;important;internal
+ Microsoft,M59419,15-04-2013,11-04-2013,12077.63,Mylene Ledner,Est non accusamus non fuga est mollitia.,accepted,
+Company X,C68455,06/09/2013,06/06/2013,14165.71,Amely Roberts,"Accusamus eaque ut repellendus.
+Dolores voluptatum asperiores magnam modi tempora impedit temporibus.
+Voluptatum iure ut magni hic corporis sunt est.",other,client;Important;internal;other;negligible
+Ostrzy Entertainment,O59535,02/19/2015,02/13/2015,14842.55,Mrs. Queenie Gleichner,Harum unde fugiat fuga.,accepted,internal;Client
+"Monterail, Inc.",M762,2014-06-27,2014-06-26,19183.30,Jany Gulgowski,Non aspernatur doloribus qui molestiae ab.,accepted,
+ KT Koty,K51279,2015-02-22,2015-02-16,19917.17,Vickie Von,Sunt voluptatum alias ut perferendis in vel rerum.,other,
+ TT Internet,T97390,20-09-2012,12-09-2012,18570.19,Kobe Stehr Jr.,"Magni odit dolorem molestiae.
+Laboriosam sed molestiae hic vitae.",rejected,other;Important;internal;delegation;negligible
+Wesoła Gżegżółka,W68683,2015-01-21,2015-01-12,16463.66,Lily Schmidt,Maxime debitis optio quis repellendus.,other,other
+" Monterail, Inc.",M18726,2013-10-06,2013-09-30,15676.27,Fay Brown,Necessitatibus nihil architecto qui.,other,Internal;Negligible;important
+ Comcast,C97950,2013-09-01,2013-09-01,16701.63,Dr. Otha Walsh,"Quidem ut officiis fuga saepe vitae dolores.
+Quo sit est.
+Excepturi saepe autem odit asperiores.
+Molestiae nihil tenetur.",rejected,Important;Delegation;internal;client
+BP Biznes,B31378,2012-11-28,2012-11-23,14268.39,Brandyn Hilll,Ut maiores odio reiciendis.,rejected,negligible;other;Client;Internal
+Ostrzy Entertainment,O85272,2013-08-13,2013-08-09,15783.18,Emerald McDermott,Dolor architecto voluptate.,other,important;Client;negligible;other
+BP Biznes,B76336,05-11-2012,03-11-2012,18081.74,Fernando Hammes,Aut aut et sit illum aut voluptas rerum.,accepted,Other;important
+ ACME,A66282,22-04-2013,18-04-2013,16120.86,Miracle Reichert,Aut inventore voluptas dolorem dicta quis magni.,accepted,internal;important;Delegation;Negligible;other
+ KT Koty,K14308,12/10/2013,12/06/2013,12843.72,Georgette Donnelly,Illum officiis fugit expedita ut enim aut ullam.,accepted,important;internal;negligible
+ SB Komputery,S62720,11/20/2014,11/12/2014,14906.94,Eryn Bode DVM,Eum consequuntur cum fugiat quisquam.,accepted,client;Other
+Wesoła Gżegżółka,W23870,26-08-2013,24-08-2013,13983.20,Kyleigh Baumbach,Animi enim et est ullam dignissimos quis non.,accepted,Other;client;Important;internal;negligible
+ Comcast,C33589,23-01-2014,17-01-2014,13395.34,Lexi Rogahn,Itaque vel error aliquam autem maiores ut.,other,important;other;delegation;client
+ Big Company 1,B93536,2015-01-20,2015-01-13,16149.53,Ima Brown III,"Voluptatem consequuntur vero.
+Qui et error dolorem voluptatibus qui.",other,delegation;Important
+ MS Szpadel,M32756,2014-08-17,2014-08-08,17665.81,Keagan Hickle,"Temporibus labore consectetur est rerum.
+Maxime reprehenderit eos adipisci omnis.",accepted,internal;client
+SB Komputery,S45411,2014-01-28,2014-01-20,15702.90,Hayley Bartell,Molestias accusamus magni molestiae incidunt quo.,other,delegation;Important;negligible
+ Wesoła Gżegżółka,W19211,08/15/2013,08/11/2013,11121.3,Ian Pacocha DVM,Asperiores ea sed.,other,delegation;important;internal;other;client
+Company X,C65618,02/06/2014,02/06/2014,12744.81,Carlie O'Keefe,"Maiores quam quas quaerat dolorum.
+Iusto nihil doloremque.
+Odio inventore corrupti veniam non maxime expedita eum.
+Minima harum unde sint aut.",rejected,Important;other;Negligible;internal
+ KT Koty,K67006,2012-09-17,2012-09-09,13910.10,Julianne O'Reilly,Officia sapiente soluta architecto.,other,delegation
+MS Szpadel,M56810,02-07-2014,28-06-2014,16789.20,Larue White,Sit rerum quia.,other,Other
+Wesoła Gżegżółka,W50086,28-11-2012,27-11-2012,13518.17,Penelope O'Connell,"Et doloribus laudantium perspiciatis.
+Quia quidem voluptas sapiente dolorum mollitia.
+Laboriosam quae officiis alias nemo reprehenderit vitae.",accepted,Other;important;delegation;client
+ Big Company 1,B98300,01/21/2013,01/12/2013,10723.75,Lue Strosin,Corporis voluptate dolores quae qui a odit deleniti.,other,client;Internal;delegation
+ KT Koty,K41826,2013-01-01,2012-12-26,10645.38,Asa Nader,Laudantium tenetur incidunt sunt et.,rejected,delegation;important;other
+TT Internet,T20767,06-04-2015,29-03-2015,15161.78,Samanta Murray,"Pariatur corrupti at recusandae voluptatem culpa a commodi.
+Ipsa enim autem nisi voluptate reprehenderit voluptates asperiores.
+Dolorem numquam fugiat maiores nam.
+Quia pariatur deleniti cupiditate illo fugit.",rejected,Internal;Delegation;negligible;client;other
+KT Koty,K85942,09/10/2012,09/06/2012,17028.68,Antoinette Feest,Excepturi aut eius porro corrupti quia.,accepted,Delegation;internal
+ Ostrzy Entertainment,O74901,2014-02-04,2014-02-01,17167.47,Dr. Chaya Russel,Ipsa id porro natus voluptatibus consequatur corrupti.,other,Other;internal;delegation;Important;Negligible
+Wesoła Gżegżółka,W17066,12/21/2013,12/13/2013,19034.77,Desmond Swift,"Quia ratione molestiae ea vel id.
+Perspiciatis aut perferendis.
+Quibusdam aut voluptatem velit temporibus labore ratione voluptas.
+Ipsum quaerat corrupti perspiciatis.",accepted,other
+ Company X,C79225,2015-05-08,2015-04-29,11261.13,Mr. Juliana Gerhold,Enim expedita nam repudiandae aut est.,other,delegation;client
+Big Company 1,B85126,29-03-2013,27-03-2013,16319.67,Pete Leuschke,"Ex sed totam.
+Magni placeat nulla.
+Et dicta quam non voluptatibus.
+Officia nam minima nobis quibusdam.",rejected,Important;Negligible;Client
+SB Komputery,S83946,2013-01-05,2012-12-31,16762.45,Ms. Rudy Krajcik,Illum aut dolores tenetur.,rejected,client;internal
+ BP Biznes,B15354,11-12-2013,10-12-2013,16032.91,Mandy Gottlieb,Est voluptas magnam.,other,Other
+ Microsoft,M56433,29-12-2014,26-12-2014,16683.31,Katrina Koch,"Cupiditate cumque officiis provident magni laboriosam.
+Mollitia placeat vero iure quaerat.
+Eaque aut vel corporis sed tempore cum.
+Quod rerum delectus debitis voluptates omnis et vitae.",other,internal
+ Wesoła Gżegżółka,W38786,07/18/2014,07/18/2014,19497.60,Jerrod Grant,Illo et aliquid.,rejected,delegation
+Comcast,C9998,01/16/2013,01/09/2013,13664.34,Mara Heller,Quo quis libero reprehenderit nihil quos assumenda.,rejected,delegation;important;Internal
+Wesoła Gżegżółka,W38980,2013-01-07,2013-01-06,19296.24,Myrtie Kiehn IV,"Et esse rerum eveniet velit nulla culpa.
+Aut incidunt repellat nobis alias a.
+Sint ipsa iusto ducimus inventore.",rejected,delegation;Important;internal;negligible
+ MS Szpadel,M37695,29-06-2013,20-06-2013,10430.39,Nicolas Davis I,"Quia dolor dolorem ut aspernatur est.
+Aliquid voluptatem tempora quia itaque nobis autem aut.
+Ipsa tenetur minus ipsam debitis ducimus.",rejected,client;Negligible;important;internal
+ Microsoft,M671,2014-01-20,2014-01-17,10977.24,Kaitlin Keeling MD,"Doloribus nemo aperiam laborum nisi.
+Modi dolore commodi illum.",other,Internal;important;delegation;negligible;Other
+SB Komputery,S12410,10/13/2014,10/09/2014,19200.11,Mrs. Karley Murray,Aut quia voluptas assumenda numquam labore fugit rerum.,other,Delegation;other;Negligible;client;Important
+Company X,C40078,2014-06-12,2014-06-04,10243.29,Donavon O'Reilly,"Corrupti qui dolorum qui quos.
+Porro eius animi enim.
+Deleniti est vitae non provident sequi.",rejected,
+Comcast,C3818,2015-04-12,2015-04-08,18534.40,Antoinette Flatley,Aspernatur quam cum eaque saepe quo.,other,
+SB Komputery,S40697,01/25/2014,01/22/2014,14908.49,Gregg Schulist,Rerum est aliquid fugiat nam modi.,rejected,Delegation
+"Monterail, Inc.",M55639,12/04/2013,11/30/2013,10356.18,Ms. Adrian Rogahn,Quae reprehenderit modi unde est vel molestiae.,other,internal;Important
+Ostrzy Entertainment,O38664,2015-05-19,2015-05-19,12631.92,Elmira Schuster,"Repellat quo sapiente sequi et blanditiis.
+Consequatur et iusto sapiente sint velit tempora ipsam.
+Eos sed ullam nisi asperiores numquam aliquam ex.",other,
+Ostrzy Entertainment,O5310,12/31/2012,12/25/2012,19828.60,Dr. Madyson Roob,"Porro voluptatem non esse.
+Vel impedit non quaerat eos.
+Ratione molestias sed odio.
+Consequatur quisquam aliquid impedit debitis.",rejected,Other
+BP Biznes,B51828,20-03-2014,18-03-2014,15137.27,Judy Kautzer,Libero sunt est.,rejected,important;internal;Client
+ BP Biznes,B35861,20-08-2014,19-08-2014,15927.46,Miss Marisa Balistreri,"Expedita sed est odit ex ut soluta.
+Harum est quo sit aperiam.
+Quos non debitis eum vero doloremque sint quam.
+Et voluptatibus dolore doloremque accusantium quibusdam nobis consectetur.",accepted,
+ Big Company 1,B47764,2014-02-08,2014-02-04,10130.89,Sanford Lockman,Quas distinctio at sed harum ut.,other,
+TT Internet,T82998,2013-08-20,2013-08-20,12559.52,Chelsea Swift,"At aut provident et.
+Sint distinctio dolorem.",rejected,important;client;internal
+Ostrzy Entertainment,O89821,27-03-2015,25-03-2015,16029.92,Fay Hudson Sr.,Qui illum tempore quis voluptas molestias est.,accepted,internal
+KT Koty,K25351,01/27/2015,01/26/2015,15542.41,Royal Schumm Jr.,Rerum est nisi blanditiis.,accepted,negligible;other;delegation;Internal;Client
+Wesoła Gżegżółka,W41421,17-07-2013,15-07-2013,19561.75,Lia Klein,"Dicta repudiandae odit autem omnis culpa.
+Corporis nobis fugit dolorem ut eum.
+Dolorum cupiditate consequuntur rerum accusantium.",rejected,Client;internal;other;important;Delegation
+ KT Koty,K40922,29-12-2012,26-12-2012,17454.78,Tess Bartoletti,"Voluptatem quia ut esse optio doloremque.
+Labore porro occaecati repellendus sit vel sed vel.",other,delegation
+ KT Koty,K50938,03/14/2013,03/05/2013,11310.27,Robyn Abbott,Qui quasi ipsum optio dolores alias reprehenderit.,accepted,negligible;delegation
+ TT Internet,T92704,2014-05-25,2014-05-22,10950.72,Saul Dach,"Nobis saepe est.
+Excepturi commodi voluptate atque.
+Sunt velit sequi cumque nisi voluptatem nihil eligendi.",other,internal
+ Comcast,C97168,24-08-2014,15-08-2014,17306.65,Vanessa Dibbert V,"Qui animi ad similique ut enim illo.
+Et facilis repellendus qui.
+Est ullam expedita assumenda.",rejected,delegation;important;internal;Other;client
+ KT Koty,K47085,22-09-2012,21-09-2012,13767.67,Anya Dickinson,"Omnis cum vero quae et illo optio.
+Doloremque in reprehenderit et voluptatem quisquam sunt.
+Porro aliquam atque nostrum et consectetur.",accepted,Negligible;important
+SB Komputery,S55132,2012-09-18,2012-09-17,11914.39,Leopold Dickens,"Ad est sed.
+Nostrum fugit facere libero incidunt aliquam qui ut.
+Perferendis corporis modi a quia at distinctio.
+Laborum autem et incidunt quaerat.",rejected,internal;important
+ ACME,A1485,2013-01-04,2013-01-01,15234.29,Holly Rosenbaum,Velit temporibus quis illum exercitationem.,accepted,
+ Ostrzy Entertainment,O83831,04/17/2013,04/11/2013,18390.23,Briana Yost DDS,Unde officia deleniti incidunt.,accepted,important
+Microsoft,M36263,14-09-2014,09-09-2014,11259.95,Alisa Nikolaus,"Rerum iure dolorem iste repellendus.
+Dolore non laudantium placeat.
+Sint sunt deleniti repellendus dolorem ducimus voluptatem inventore.
+Sed magni in mollitia.",accepted,Delegation;internal
+ Wesoła Gżegżółka,W942,02/26/2015,02/25/2015,11220.63,Dr. Lawrence O'Reilly,Facere est dolorum.,rejected,other;internal;important;delegation;client
+KT Koty,K64460,2013-11-21,2013-11-21,19752.76,Ally Bins,"Ducimus et natus est vero repudiandae quas quaerat.
+Vero debitis incidunt veritatis odit.",rejected,client
+ Microsoft,M26121,02-10-2014,29-09-2014,16954.30,Billie Rempel,"Eius eveniet sunt voluptatem quaerat ab alias rem.
+Asperiores ducimus sint id sed.",other,internal
+" Monterail, Inc.",M52312,04/09/2013,04/06/2013,15610.69,Ludie Champlin,Minus temporibus ipsum officia sit rerum.,other,Client;Internal;other;negligible;delegation
+Big Company 1,B2581,03/31/2014,03/26/2014,17244.31,Antwan Baumbach,Dolores eligendi officiis ut.,rejected,client;Other;delegation
+Big Company 1,B62135,2014-12-01,2014-11-30,17949.67,Otto Rutherford I,Perferendis voluptas quia eius velit tempora totam.,other,delegation;negligible;Internal;client;Important
+ ACME,A85072,2014-08-10,2014-08-09,15310.6,Karson O'Connell I,Beatae quis vero.,rejected,
+ MS Szpadel,M1864,04/21/2015,04/20/2015,14338.42,Daniella Sanford,"Asperiores aliquam et veniam aut.
+Illo nihil optio.
+Itaque atque ratione alias corporis numquam.
+Sint et tempore molestiae quis.",accepted,delegation;negligible;client;Other;Important
+Comcast,C84912,2012-09-05,2012-08-30,13068.74,Derick Shields,"Repellat ratione sint dolor voluptatum odio.
+Neque ut ullam consequatur.
+Et repudiandae cum eius commodi explicabo.
+Aliquid maxime id.",accepted,
+ Ostrzy Entertainment,O10997,25-03-2014,25-03-2014,10240.66,Gunnar Fadel,Totam fugiat illo nobis nesciunt.,accepted,important;other;Delegation
+ Microsoft,M2981,02/17/2014,02/11/2014,10613.78,Devante Harber IV,Qui consequatur eius est aut doloribus eum perferendis.,other,important;negligible;Client;delegation;other
+ SB Komputery,S16359,2014-01-05,2014-01-04,14272.56,Cortez Roob II,Neque dignissimos ad molestiae dolores nulla consequatur.,rejected,important;other;internal
+ Wesoła Gżegżółka,W15434,2013-09-15,2013-09-09,17649.73,Charles Wunsch,"Sit atque occaecati possimus laboriosam consequatur expedita.
+Eius temporibus eveniet voluptas excepturi nostrum harum.
+Est quam fuga necessitatibus sint iusto est quo.",rejected,Delegation;Negligible;other;client;internal
+Wesoła Gżegżółka,W39401,2014-05-31,2014-05-28,13690.21,Destini Breitenberg,Quaerat sint ea.,other,Delegation;Other;negligible;client
+ ACME,A79814,05/28/2013,05/21/2013,14990.82,Frida Stehr,Provident non placeat dolores mollitia.,accepted,Client;delegation;Other;important
+" Monterail, Inc.",M95280,2014-11-28,2014-11-20,12830.4,Arlo Mitchell,Amet repellendus nemo non tempore aperiam ea voluptatem.,accepted,Client;negligible;important
+ Big Company 1,B53195,18-10-2012,17-10-2012,19700.76,Thurman Stamm,Debitis quo omnis qui aut rem perspiciatis quos.,rejected,Internal;Negligible;Important;Other;client
+KT Koty,K91860,26-01-2013,26-01-2013,15196.4,Hobart Wyman DDS,Magni aliquid pariatur.,rejected,Important;client
+ Ostrzy Entertainment,O69274,09/08/2013,09/08/2013,18597.42,Edna Rutherford,"Deserunt et ea eos id expedita ipsam quia.
+Tempora ut aut est voluptatem quaerat non.
+Dolore vel doloribus.",other,Negligible;important;client;delegation;internal
+ TT Internet,T17528,18-12-2013,11-12-2013,17674.85,Buddy Kautzer,"Ut minus voluptatem provident debitis omnis dolores.
+Ipsa ipsum optio aliquam qui quasi aut.
+Architecto dolore est fugiat.",other,internal;Important;Negligible;client;other
+Company X,C3148,2013-11-25,2013-11-16,16396.67,Candace Hessel,"Molestiae in dolorem molestiae laborum in.
+Neque omnis temporibus saepe sint.
+Corrupti et quos nostrum.",other,client
+SB Komputery,S42236,14-03-2014,08-03-2014,14324.3,Mr. Elmer Jacobson,Ut autem et et.,other,
+ BP Biznes,B76807,2013-11-12,2013-11-07,19633.72,Odell Koch,Vitae nam dolorum dolore.,other,Negligible;client;important;other;delegation
+Big Company 1,B13164,03/09/2015,03/07/2015,13763.18,Raquel Bahringer,Culpa numquam et quidem.,accepted,
+ACME,A15770,28-03-2014,26-03-2014,11223.66,Ms. Margot Murazik,"Facere doloribus dolorem voluptatibus.
+Dolorum dicta veritatis vel qui iusto enim provident.
+Velit nisi voluptas quis.",accepted,delegation;other;negligible;Client
+SB Komputery,S36810,2012-10-06,2012-10-01,11040.87,Julian Schaefer,Exercitationem dolor dolores voluptate nisi.,accepted,
+Microsoft,M15828,21-11-2012,17-11-2012,18446.23,Weldon Thompson DVM,Praesentium porro possimus ipsum maxime eligendi culpa esse.,accepted,important;negligible;client;Delegation;internal
+ SB Komputery,S69327,2014-02-22,2014-02-21,10148.32,Eunice Beatty MD,Voluptatem vel a labore.,other,client
+ SB Komputery,S79433,11/19/2012,11/10/2012,18043.72,Abe Heller,Error consequatur rem neque.,accepted,other
+ TT Internet,T76782,2015-03-04,2015-02-26,18741.10,Keeley Batz,Et quibusdam nobis.,accepted,internal;important;Negligible
+ Microsoft,M15367,12-11-2014,05-11-2014,16120.48,Bobbie Rodriguez,Distinctio ipsum facere error perspiciatis.,rejected,
+ SB Komputery,S17898,12-04-2013,09-04-2013,11037.32,Mellie Feest,Culpa dolorem deleniti aliquid et.,rejected,other;negligible
+Big Company 1,B31999,2014-03-05,2014-03-01,17054.46,Otis Keeling,Natus molestiae sapiente ipsa aliquid.,accepted,other
+Ostrzy Entertainment,O30379,15-05-2014,09-05-2014,10140.69,Isadore Medhurst DDS,"Qui dolorem quis quia.
+Sit est doloribus molestias velit.",rejected,negligible;internal;client;delegation
+Comcast,C41957,08/05/2013,07/30/2013,19121.2,Lucas Ruecker,Id earum tempore et cum nisi deserunt.,other,Delegation;internal;Other;client
+KT Koty,K62524,01/08/2015,12/30/2014,18306.76,Moises Schaden,"Eius eaque blanditiis ab omnis similique laboriosam eveniet.
+Consequatur quia suscipit eos maxime nulla unde.
+Ut iure quia quibusdam.
+Unde sint dolorum aut reiciendis asperiores.",accepted,delegation;other;client;important;negligible
+Big Company 1,B11600,09-09-2014,06-09-2014,11316.61,Marilie Wisoky,"Autem aliquid commodi qui eum in.
+Blanditiis quam iste omnis voluptatum temporibus aut.",accepted,Other;negligible
+Ostrzy Entertainment,O95300,13-04-2015,04-04-2015,12745.3,Adele Kuhic,"Nulla corrupti sit sunt.
+Cum ad dolorem iure ratione.",accepted,
+BP Biznes,B46698,30-08-2014,21-08-2014,10417.66,Erick Krajcik,"Cumque et aut amet.
+Vel aut illo voluptas voluptatem officiis aliquam.
+Culpa sed a doloribus eaque sed.
+Sequi tenetur debitis.",accepted,other
+ Comcast,C19921,22-03-2013,18-03-2013,10303.53,Jabari Hartmann,"Omnis cupiditate repellendus aut omnis soluta ea.
+Quis omnis numquam.
+Expedita tenetur dignissimos ipsa praesentium alias molestiae.
+Repellendus optio beatae aliquam.",other,
+Company X,C72195,23-10-2012,23-10-2012,10861.61,Elmira Emard DDS,"Assumenda sequi eligendi modi sed.
+Et magni qui odit.",accepted,other;important;negligible;Client
+ MS Szpadel,M39492,04/17/2013,04/08/2013,13656.80,Mya Turner MD,Odio praesentium dignissimos eligendi dolorem fugit.,other,Client;important
+ ACME,A47383,2014-11-11,2014-11-05,11278.70,Elody Walker,Autem rerum sed illum.,other,Important;other;Negligible;Internal
+ TT Internet,T18989,05-09-2012,31-08-2012,10844.46,Kiel Hodkiewicz,"Molestiae ipsam sapiente est nihil dolor.
+Et aut et.",accepted,internal;Client;other;delegation;Important
+ACME,A63074,09/22/2014,09/14/2014,10595.65,Hilario Harris,Nisi minus et.,accepted,
+Wesoła Gżegżółka,W9970,2014-01-12,2014-01-09,16196.82,Rubye Feil,Quaerat quibusdam officia cumque accusamus.,rejected,internal;Important
+" Monterail, Inc.",M50746,2013-09-06,2013-08-30,17426.55,Dr. Devon Russel,"Unde ut nihil eveniet temporibus accusamus.
+Aperiam aut aut quasi aut.
+Facere autem aut odio neque reprehenderit.",accepted,Important;other;internal
+ Ostrzy Entertainment,O61013,17-10-2013,09-10-2013,11052.79,Ms. Tito Rosenbaum,Aperiam qui distinctio consequatur fuga cumque culpa.,accepted,internal;negligible;client
+ KT Koty,K67999,08/25/2014,08/25/2014,12984.83,Alisha Grant,Laborum voluptatibus aut et quibusdam.,accepted,Client;other;Negligible
+"Monterail, Inc.",M5722,02/18/2014,02/16/2014,18202.25,Ms. Lessie Windler,Magni qui maxime eos voluptas reiciendis quisquam.,rejected,client;other;important;delegation
+" Monterail, Inc.",M2860,2014-11-22,2014-11-18,16917.49,Eugenia Dietrich,"Ut non sint et ullam quia quaerat.
+Incidunt molestiae perferendis deleniti et voluptas.",other,negligible;Other;Internal;delegation
+BP Biznes,B4026,10/19/2012,10/10/2012,19337.16,Gennaro Schamberger,Unde enim quos.,other,Important
+ Wesoła Gżegżółka,W54022,2014-01-18,2014-01-16,13647.12,Maximillian Cronin DVM,"Dolore perferendis ad ut ab aut.
+Sint cumque modi quo.
+Nihil dolor iste maxime quia velit facilis.",other,Negligible
+ KT Koty,K11948,2014-05-11,2014-05-04,19520.9,Dr. Leonora Hayes,Non qui sequi qui.,accepted,client;other;delegation;internal
+TT Internet,T92821,2013-01-27,2013-01-24,14311.17,August Schaefer,Eos saepe voluptas laborum quia.,other,Other;delegation;Internal;client
+ KT Koty,K32486,09/10/2012,09/04/2012,12288.56,Ms. Osborne McLaughlin,"Ex repellendus blanditiis aut.
+Repellendus quis ratione.",other,Important;internal;negligible;Other
+Wesoła Gżegżółka,W7855,25-10-2012,25-10-2012,14414.32,Keagan Cole,Eos qui similique.,rejected,important;client;other;negligible
+" Monterail, Inc.",M29490,2014-09-27,2014-09-18,18471.28,Elmore Hartmann,Repellat sit necessitatibus neque suscipit enim.,other,
+ Microsoft,M87742,12/17/2012,12/13/2012,13212.36,Brianne Batz,Non velit temporibus omnis.,rejected,internal;Delegation;client;Negligible
+Ostrzy Entertainment,O8584,12/12/2012,12/05/2012,10525.0,Dayana Ferry III,Omnis similique ex placeat voluptas maiores.,accepted,Client;Internal
+Comcast,C33138,29-12-2013,27-12-2013,18002.49,Lucie Kuphal,"Similique nesciunt omnis.
+Itaque doloremque dicta voluptatem quis vero.
+Voluptate omnis nihil quod architecto.",accepted,
+Ostrzy Entertainment,O6471,14-05-2013,07-05-2013,10743.56,Estefania Metz,Rerum sapiente animi.,accepted,delegation;other;negligible;Client;internal
+ Ostrzy Entertainment,O97488,2015-04-30,2015-04-22,15512.89,Murray Turner,Quis facilis dicta qui omnis.,rejected,
+Comcast,C84478,20-12-2014,20-12-2014,18065.82,Maggie Schmidt,Sit omnis sapiente at sequi ea ea amet.,other,internal;Important;client;delegation;negligible
+ Microsoft,M27949,10/19/2012,10/17/2012,15383.17,Domingo Zulauf,Voluptas magnam non eos atque sed.,rejected,
+ Wesoła Gżegżółka,W87657,06/16/2013,06/11/2013,17062.37,Alvena Schroeder,"Quod aut sit fugit ullam hic.
+Atque et nemo earum hic eius.
+Delectus velit sunt aut cum.",accepted,Internal;client;Other
+ SB Komputery,S98413,2015-03-07,2015-03-02,19676.54,Edyth Goyette,Minus eum laborum et ipsa.,rejected,Client
+ Ostrzy Entertainment,O50609,12-01-2013,03-01-2013,16840.20,Orville Leffler,"Earum quae nihil.
+Molestiae ea et.
+Est quo qui cumque id illo.
+Voluptas quidem iusto explicabo repellendus maiores.",accepted,client;delegation;important;Negligible
+BP Biznes,B35146,08-12-2014,02-12-2014,14712.5,Colton Boyer,Rerum ipsum fuga eum et qui quia.,accepted,Important;client;other
+SB Komputery,S12368,2014-06-25,2014-06-22,11726.74,Edwina Rutherford,Culpa consectetur ad doloribus dolor repellendus perspiciatis.,accepted,delegation;Client;Internal;important
+BP Biznes,B91166,06-04-2015,02-04-2015,12952.69,Freida Windler,Et porro sint voluptatem et nemo cum et.,other,Internal;client
+ Wesoła Gżegżółka,W22623,08/31/2012,08/24/2012,12657.35,Adriel Murray,"Nemo et delectus possimus tempore.
+Atque voluptate excepturi labore sint voluptatem.",accepted,other;Negligible;Delegation;Internal
+ Comcast,C73388,05/04/2013,04/30/2013,11721.69,Jerome Champlin,"Ea voluptate minima fugiat neque numquam.
+Inventore nihil placeat iste et.
+Soluta id sint ipsum consequatur maiores sit.",rejected,negligible;delegation
+Wesoła Gżegżółka,W64841,03/20/2013,03/12/2013,10901.79,Jonathan Buckridge,Pariatur ex voluptatem.,rejected,
+ KT Koty,K14364,2014-10-18,2014-10-09,10128.57,Lauryn Franecki,Consequatur qui et quos ut itaque consequatur.,accepted,internal;Important;other;Delegation;negligible
+" Monterail, Inc.",M87422,2014-01-03,2014-01-03,14975.52,Kory Blick,Voluptate odit ullam corrupti est quisquam.,rejected,client;Negligible;Important;other
+ Big Company 1,B22103,08/30/2013,08/23/2013,14540.9,Gennaro Lockman,Earum necessitatibus fuga et.,accepted,Other
+ACME,A16548,07/30/2013,07/25/2013,19413.11,Rossie Klocko,Quia qui voluptas maxime molestias eos placeat distinctio.,other,
+ACME,A87033,10/03/2012,10/01/2012,14211.47,Bianka Trantow,Facere libero eos omnis cumque.,rejected,client;Other;delegation;negligible
+"Monterail, Inc.",M99732,11-02-2015,08-02-2015,10456.72,Miss Jazmyn Lynch,Laboriosam qui laudantium molestias.,other,Client;internal;Delegation
+ SB Komputery,S91182,2014-01-21,2014-01-21,16200.41,Laila Reichel I,Hic incidunt dolores.,other,Negligible;client;Important;Internal
+ KT Koty,K47170,03-11-2012,28-10-2012,14508.2,Myron Kuhlman,Assumenda magnam minus cupiditate.,rejected,Negligible
+Company X,C55232,2015-01-29,2015-01-28,10900.97,Ms. Casey Hudson,"Omnis neque voluptate qui.
+Saepe omnis non.",accepted,
+ Big Company 1,B90252,21-05-2013,13-05-2013,16513.55,Filomena Goldner,"Rem provident est ipsa.
+Quasi eum est aut occaecati sequi exercitationem.",rejected,Delegation;internal
+ Wesoła Gżegżółka,W95195,09/10/2014,09/07/2014,13895.34,Chandler Lind Sr.,Sit est saepe delectus tenetur architecto voluptas.,other,negligible;Important
+TT Internet,T58293,2014-05-16,2014-05-12,16811.18,Micaela Mayert,Ea esse omnis nam laborum illum omnis.,accepted,negligible;delegation;client
+MS Szpadel,M31468,27-02-2015,20-02-2015,17257.55,Geraldine Conn,Provident doloribus modi.,rejected,internal;delegation;Important;negligible
+SB Komputery,S72639,02/21/2014,02/18/2014,16567.4,Telly Homenick,Aut delectus quia velit dolorem est.,rejected,client;other
+Wesoła Gżegżółka,W13816,23-04-2014,23-04-2014,17271.13,Miss Cory Klocko,"Aut tempore quisquam.
+Est qui tempora reprehenderit et.
+Et mollitia officia ea et dolorem reprehenderit eaque.",other,client;important;other;Delegation;internal
+ BP Biznes,B1091,2013-06-23,2013-06-23,10026.59,Reagan Doyle,Sunt est corrupti nulla quo provident consequatur.,accepted,
+Ostrzy Entertainment,O41141,27-07-2014,24-07-2014,13096.97,Antoinette Pacocha,Est assumenda qui itaque voluptatum libero voluptatibus blanditiis.,rejected,
+BP Biznes,B85988,05/19/2013,05/16/2013,18254.95,Maiya Wehner MD,Aut sed molestiae sit quo sit cumque.,other,Internal;negligible
+ Wesoła Gżegżółka,W75512,2014-06-09,2014-06-04,13297.84,Dr. Wilford Hoppe,Porro cumque ex ad et.,accepted,
+" Monterail, Inc.",M63357,10/19/2012,10/16/2012,18805.48,Torrance Dooley,"Voluptas iste beatae tenetur eligendi.
+Soluta et occaecati.
+Sapiente consequatur est qui provident a.
+Et cumque est ducimus dignissimos.",rejected,important;Other
+"Monterail, Inc.",M63511,12/21/2013,12/17/2013,11377.12,Melyna Bogan I,Quia repellat et aut dolorum sed molestiae.,rejected,important;delegation;client;Negligible;other
+Comcast,C65280,2014-02-06,2014-01-29,17773.9,Iva Champlin,"Officiis aliquam perspiciatis vitae.
+Ea hic dolore.",other,delegation;other;Internal;Client;Negligible
+Microsoft,M65498,2013-11-20,2013-11-12,19661.24,Henri Greenfelder,Voluptatem totam harum in aut qui nihil iure.,accepted,important;delegation
+SB Komputery,S93251,10/09/2013,10/01/2013,19749.97,Alfredo Connelly,Accusantium quisquam non maiores.,rejected,internal;client
+"Monterail, Inc.",M57759,02/25/2013,02/17/2013,12478.32,Mr. Garrett Lakin,Earum libero dolores asperiores excepturi itaque.,rejected,Client;Important;Internal
+Microsoft,M43065,2013-04-13,2013-04-12,10232.35,Miss Vivianne Keebler,"Corrupti ut beatae consectetur eos ut.
+In veritatis ab.",other,internal
+ACME,A46706,2014-02-28,,15858.22,Ms. Raina Kassulke,"Quod neque quis nemo a.
+A eum ea.
+Unde sint et.",accepted,negligible
+Wesoła Gżegżółka,W45243,01/31/2015,01/26/2015,13989.33,Miss Lucy Bergnaum,Omnis culpa et laborum veritatis distinctio voluptatum.,accepted,other
+KT Koty,K25864,12/22/2012,12/15/2012,14289.94,Heber Sipes,Et dolorum magnam occaecati ullam est excepturi.,accepted,
+ACME,A50070,04/30/2014,04/28/2014,13143.70,Deja Douglas,Incidunt et culpa minus consectetur numquam.,other,other;important
+ Microsoft,M54399,03-09-2014,30-08-2014,19026.19,Armand Wiegand,Architecto omnis laboriosam sequi.,other,other;important;client;Internal;Negligible
+BP Biznes,B94552,10/29/2014,10/27/2014,10468.13,Jovani Ward,Nulla eum dolor aliquid voluptatem facere in soluta.,other,other;client;delegation;internal
+ Wesoła Gżegżółka,W93162,24-01-2015,21-01-2015,16128.88,Antonia Prohaska,Sunt iste nisi qui facere qui dolore hic.,other,negligible
+ Big Company 1,B16933,25-02-2014,18-02-2014,18543.96,Tiana Stehr,Accusamus qui itaque enim.,accepted,internal;negligible;Delegation;client;other
+Microsoft,M60566,18-02-2013,11-02-2013,13795.41,Vella Langosh,"In molestias quas.
+Beatae ut quia fugit facilis quibusdam quas.",other,
+KT Koty,K85386,09/11/2014,09/11/2014,15362.43,Matt Will II,Dolorem blanditiis pariatur quisquam perspiciatis.,accepted,delegation
+Wesoła Gżegżółka,W26010,07/06/2013,06/27/2013,12565.20,Stewart Gislason DDS,Quos eaque recusandae doloremque aut magni veniam voluptate.,other,internal;delegation
+ KT Koty,K19023,18-11-2014,14-11-2014,13055.54,Thelma Hammes,Cupiditate autem voluptate id non in eos.,rejected,client;other;internal;Important;Delegation
+ Comcast,C98354,05/22/2015,05/15/2015,16353.37,Eusebio Mohr,Sed impedit neque consequuntur rerum blanditiis alias ullam.,accepted,negligible;delegation;Important;client;other
+Ostrzy Entertainment,O41023,29-05-2014,23-05-2014,14608.77,Brando Ullrich DVM,Iusto blanditiis iste amet voluptatem quis doloremque.,accepted,delegation;client;negligible
+Company X,C77815,07-05-2013,03-05-2013,11037.7,Chandler Williamson,"Consequuntur ex soluta ratione quis quod.
+Debitis et quo nulla incidunt consequatur.
+Enim eum suscipit et porro ratione.
+Sit incidunt odio quis.",accepted,Client;Other;negligible;important
+ ACME,A1723,04/05/2015,03/28/2015,15231.79,Monte Hirthe V,"Quos sunt rem dolores quia quia adipisci.
+Eius minima alias ut occaecati ut.
+Explicabo illum itaque dolorem exercitationem consequatur natus id.
+Magni consequuntur in.",rejected,internal;client;other;important;negligible
+"Monterail, Inc.",M48350,02-04-2014,28-03-2014,10231.43,Verona Runte IV,"Quam dicta autem architecto.
+Voluptatem non saepe eos.
+Corporis vitae aut voluptatem molestiae.",accepted,Client;important;delegation;Internal;negligible
+TT Internet,T57143,09-12-2012,06-12-2012,19298.33,Gene Dach,Commodi qui id velit explicabo cupiditate nihil eum.,other,Negligible;delegation
+ KT Koty,K74221,2012-10-08,2012-10-08,15175.4,Hobart Considine V,Possimus veritatis suscipit voluptatem.,other,other
+ MS Szpadel,M79494,2012-11-07,2012-10-31,12114.1,Oswald Pfeffer,Perspiciatis sit veritatis.,accepted,
+ KT Koty,K69395,22-07-2013,21-07-2013,19718.65,Alene Schoen,"Dolor repellendus est non.
+Atque sunt tempora quia.
+Esse odit dicta neque.
+Molestias numquam voluptatum placeat.",other,
+" Monterail, Inc.",M68564,04/05/2015,03/29/2015,14277.66,Cecelia Roberts,Commodi quia dolor aut perferendis omnis.,accepted,important;internal
+ Wesoła Gżegżółka,W57207,2013-12-01,2013-11-28,12285.87,Lysanne Pagac,Adipisci impedit accusamus vel ex sapiente deserunt molestiae.,accepted,important
+ Big Company 1,B56832,2012-11-23,2012-11-15,17466.10,Alessandro Mertz,"Assumenda nostrum aut odio et dolor ex.
+Voluptatem provident sint tempore consequatur facere et et.",accepted,Internal;Negligible;other
+BP Biznes,B97436,2013-10-28,2013-10-20,14092.92,Mrs. Serena Kris,"Culpa recusandae ut impedit.
+Dolores ea libero vel exercitationem qui.",other,client
+Ostrzy Entertainment,O35289,2013-07-24,2013-07-17,13489.90,Chelsey Bradtke,Aspernatur eaque nihil illum saepe est eum nihil.,rejected,other;Delegation;Negligible;Important;Internal
+ MS Szpadel,M77393,2014-12-18,2014-12-11,19067.80,Miss Mara Farrell,Eum est dolore quasi.,accepted,
+ Comcast,C94341,10-09-2013,03-09-2013,12354.36,Dina Hintz,Dolor est sint omnis laborum nesciunt laudantium fugiat.,accepted,
+Big Company 1,B34507,01/27/2015,01/23/2015,11480.23,Leonel Bruen,Porro labore et voluptatem officiis voluptate.,rejected,Delegation
+MS Szpadel,M21933,02-12-2013,30-11-2013,19361.22,Lesly Boyer V,"Voluptatum earum id fugit repudiandae officiis.
+Rerum voluptatem qui dolorem vero.
+Est et delectus nam enim.",other,
+Ostrzy Entertainment,O26016,18-01-2015,16-01-2015,11976.52,Ms. Stan Wiza,Modi nihil numquam dolor aut blanditiis.,other,
+ Big Company 1,B72536,09-03-2014,28-02-2014,19734.11,Araceli Lehner,Dolorem exercitationem adipisci eius ut tempore.,other,important;client;Negligible;Delegation;internal
+BP Biznes,,09/20/2012,09/11/2012,15114.24,Leora Renner,Ipsum quasi ratione et necessitatibus omnis voluptatem.,accepted,negligible;important;other
+ KT Koty,K71979,21-12-2012,19-12-2012,11756.50,Josefina Torp,Voluptate et molestias facere labore voluptates qui ut.,other,
+BP Biznes,B60926,2012-11-10,2012-11-05,14716.19,Reese Flatley,Et consectetur temporibus.,rejected,other;negligible;important;client;delegation
+ Big Company 1,B52827,2013-12-09,2013-12-07,17844.22,Vesta Hermiston,Quo dignissimos in et ipsa sint aperiam.,accepted,delegation;Negligible
+ BP Biznes,B7119,12/29/2013,12/22/2013,12768.81,Daisy O'Reilly,Facere expedita recusandae quo dolorum est.,rejected,delegation;Client
+Wesoła Gżegżółka,W67862,2013-08-25,2013-08-16,10322.17,Isom Predovic I,Molestiae labore eos voluptatem qui ut.,rejected,important;Client;other;negligible
+ACME,A14982,2014-02-13,2014-02-11,15582.96,Kacie Champlin,"Ipsum inventore minima perferendis.
+Repellat maxime modi ut aut et.
+Voluptate quisquam consequuntur ipsum qui tempore ut.
+Officiis voluptatem incidunt.",other,Other;internal;delegation
+ TT Internet,T86266,2014-06-17,2014-06-13,15320.90,Augustine Larkin III,Eaque blanditiis autem qui ut.,rejected,internal;delegation;Important;Other;Negligible
+ MS Szpadel,M83885,2015-05-10,2015-05-02,17485.51,Brianne Beatty,Molestias eius tempore dicta sit et eum blanditiis.,accepted,Client
+BP Biznes,B75914,09/21/2012,09/15/2012,16318.91,Leone Beier,Vero atque deserunt cupiditate fugit eaque.,other,Delegation;important;other
+ACME,A26421,10/14/2014,10/11/2014,10917.43,Nigel Berge,"Et ex qui et incidunt quia qui.
+Iste hic accusantium sit quis.
+Vel impedit eligendi ad.
+Molestiae sequi ullam fugiat fugit.",accepted,Delegation;important;Negligible;other
+ Big Company 1,B70443,07/09/2014,07/06/2014,12083.43,Makayla Walter,"Qui sequi ut enim cum dolore quod.
+Qui inventore autem non.",other,client;internal;delegation
+Ostrzy Entertainment,O28095,09/02/2012,08/26/2012,15631.46,Esta Heathcote,Et a qui rerum distinctio voluptatem.,other,Internal;negligible;other
+Big Company 1,B45614,05-05-2015,05-05-2015,14431.99,Malvina Kulas,Modi assumenda debitis totam.,rejected,
+ Big Company 1,B86138,25-09-2014,21-09-2014,15801.27,Kameron Hilll,Est voluptatem accusantium.,other,
+ Company X,C46818,20-05-2014,19-05-2014,12289.55,Jarrell Ernser,"Illo molestiae ipsum molestiae occaecati est.
+Temporibus corrupti alias dolorem architecto.
+Et dolorem amet totam modi reprehenderit sed exercitationem.",accepted,Important;Other;Negligible;internal;client
+BP Biznes,B76450,25-08-2014,18-08-2014,19046.17,Abdul Douglas Jr.,Sunt sint dolorem nam qui corrupti delectus maiores.,other,other;important;internal;client
+ SB Komputery,S43327,06/16/2013,06/10/2013,14941.89,Fae O'Reilly IV,Quod enim qui est possimus doloremque adipisci.,accepted,
+Microsoft,M1721,10/14/2013,10/07/2013,11944.29,Samir Stanton,Quaerat natus nam accusantium impedit ut error accusamus.,accepted,Other;Delegation;internal;Client
+ TT Internet,T35146,2013-02-20,2013-02-18,15222.83,Vincent Herzog,Consectetur fugiat quia esse qui architecto enim.,accepted,
+SB Komputery,S70005,05-05-2014,29-04-2014,11004.7,Dariana Prohaska,Laudantium et a et quia qui aut.,other,other
+BP Biznes,B42810,11-04-2013,10-04-2013,11458.6,Miss Thelma Renner,Ut qui sit dignissimos quae modi asperiores.,other,important;Client;delegation;negligible;Internal
+ Ostrzy Entertainment,O91289,2012-12-05,2012-11-26,11390.81,Jade Jakubowski,Voluptatem voluptatem impedit aut et.,accepted,client
+Big Company 1,B42419,07-10-2014,02-10-2014,12873.83,Diamond Swaniawski,Dicta sint qui.,rejected,internal;other;Client;important;negligible
+KT Koty,K45104,05/05/2015,04/28/2015,16309.36,Ms. Santiago Wisozk,Dolores voluptate autem deserunt quis reiciendis sunt.,rejected,delegation
+ Comcast,C92156,2013-07-12,2013-07-05,17652.17,Nick Robel,Officia quis quia non quas necessitatibus.,rejected,Other;negligible;delegation
+"Monterail, Inc.",M20550,12/14/2012,12/14/2012,15982.93,Dr. Velda Rau,Quisquam voluptatem id laudantium tempora iste quia.,rejected,delegation;Client;negligible
+ SB Komputery,S56600,02/11/2015,02/10/2015,11706.43,Brad Weimann,Suscipit quod ducimus neque dignissimos voluptatem.,accepted,internal;other;important
+"Monterail, Inc.",M50873,03-09-2013,31-08-2013,19780.24,Dr. Vern Wyman,Et vero veniam saepe.,accepted,
+ TT Internet,T96555,08-11-2012,06-11-2012,11362.11,Raphaelle Runolfsdottir,Vero inventore molestiae voluptates.,rejected,Other
+ BP Biznes,B11659,2014-07-27,2014-07-22,17020.4,Kay Klein,Ut at velit rerum dolorem.,other,Negligible;Delegation;Other;internal
+Wesoła Gżegżółka,W41425,02/16/2015,02/16/2015,19989.15,Liliane Schmidt,Dolore voluptas sed.,rejected,internal
+"Monterail, Inc.",M79376,05/16/2014,05/16/2014,11141.48,Birdie Wyman,Dolore dolores aliquam sint nihil eveniet sapiente.,rejected,other;internal;client
+TT Internet,T64612,2013-06-27,2013-06-27,11876.78,Aurelia Thiel,"Rem repellendus fugit ut.
+Nesciunt sed numquam quo dolorem enim sed vel.
+Ipsum ipsa fuga culpa velit sit qui.
+Tenetur qui debitis.",accepted,important;Delegation
+BP Biznes,B78933,2014-01-16,2014-01-10,12942.69,Ms. Michael Hirthe,"Aut nesciunt aut fuga velit vel.
+A impedit non.",rejected,internal
+SB Komputery,S43407,2013-01-31,2013-01-22,13058.29,Dedrick Johnston,Voluptatem laboriosam illo est veniam tenetur consequuntur.,other,other;important
+Comcast,C79530,27-08-2014,18-08-2014,14791.61,Ubaldo Labadie,"Expedita nulla dolores minima vitae iusto.
+Asperiores veniam aut.
+Optio voluptate ab odit vitae ut voluptas.",accepted,client;other
+KT Koty,K57012,09/21/2012,09/13/2012,18633.77,Molly Emmerich,"Enim assumenda dolore odit.
+Delectus ipsa adipisci perferendis eius porro.
+Voluptas omnis voluptatem corporis iure maxime.
+Atque incidunt omnis consectetur eos.",other,delegation;client
+ KT Koty,K43978,2015-04-22,2015-04-21,11119.63,River Gaylord,Ipsa ipsum hic esse commodi.,other,client;delegation
+BP Biznes,B72342,11/29/2012,11/28/2012,19261.49,Mateo McCullough,Cupiditate amet velit qui non.,rejected,important;Negligible;delegation
+Company X,C48022,26-03-2013,26-03-2013,13194.30,Mrs. Enrique Williamson,Numquam doloribus culpa porro repellat ipsam.,other,Negligible;delegation;important;Other
+ BP Biznes,B83734,06/04/2013,05/31/2013,19366.56,Chase Wunsch,Modi fugit rerum ut eligendi.,rejected,delegation;client
+ Comcast,C46722,2014-11-26,2014-11-19,19180.26,Mable Will,"Totam rerum id non nihil est maxime illum.
+Illo esse voluptatem quia et sunt quidem.
+Ullam sint sapiente quibusdam sequi laudantium.",accepted,internal
+TT Internet,T5033,2013-09-28,2013-09-26,17649.36,Jackie Kuhic MD,"Occaecati vero nulla ut hic veniam.
+Culpa est accusamus sit labore.
+Sunt rerum pariatur atque nobis aliquam tenetur impedit.
+Et tenetur deleniti ipsam quae.",rejected,
+Microsoft,M35700,15-05-2014,10-05-2014,15851.6,Erna Luettgen Sr.,Minus non vitae magnam deleniti.,accepted,Other;client;Negligible;important;delegation
+Microsoft,M68833,12/03/2013,12/02/2013,18605.39,Linnea Bosco,"Natus rerum blanditiis assumenda.
+Culpa sit laboriosam consectetur aliquam veritatis eum.
+Est unde voluptatem quos rem.
+Voluptas aut in alias vero nihil.",accepted,Client;Other;important
+Ostrzy Entertainment,O76068,2013-04-15,2013-04-06,19039.45,Alvera Koepp,"Saepe doloremque sunt libero.
+Sunt sit eum distinctio accusantium.",accepted,Internal;Other
+MS Szpadel,M37116,2013-04-14,2013-04-08,14593.43,Mrs. Justyn Weber,"Eligendi nisi eos et optio distinctio eius.
+Sunt voluptatem repudiandae.
+Deleniti id quis.",other,client;Delegation;other;negligible
+ ACME,A53461,06/08/2014,05/30/2014,14324.87,Zella Beatty,Sed quia voluptas.,accepted,Important;client
+ Ostrzy Entertainment,O47652,22-05-2013,19-05-2013,11904.63,Miss Zechariah Swift,"Quas voluptatem consequuntur aperiam quo blanditiis.
+Neque corrupti corporis id.
+Velit molestiae expedita.
+Sequi ut commodi voluptas reprehenderit facere enim.",accepted,Other
+BP Biznes,B54274,11/04/2012,11/01/2012,15404.22,Michael Kihn,Hic inventore voluptatum est voluptates adipisci.,accepted,Important
+Microsoft,M35652,2014-08-11,2014-08-04,12747.29,Dr. Charlie Parisian,"Voluptate quisquam fugit eos voluptas et.
+Magni perferendis nesciunt quia.
+Deleniti ipsam consectetur doloribus numquam et.
+Et dolorem ipsum veniam officiis consequuntur corrupti.",other,
+ Big Company 1,B51750,2013-02-28,2013-02-20,17921.94,Brigitte Howe,Sed sunt soluta corrupti.,rejected,Other;negligible
+"Monterail, Inc.",M4269,21-10-2012,21-10-2012,13090.2,Amir Fisher,Unde rerum impedit animi qui est cumque ut.,other,internal;other;client;Delegation
+ Big Company 1,B22838,21-02-2015,16-02-2015,10883.53,Sincere Bosco,Assumenda reiciendis tempore fugiat officiis.,other,Important
+BP Biznes,B12072,2014-11-17,2014-11-13,13439.86,Emmy Volkman,Ut reiciendis ipsam quasi molestias veniam.,other,important;Delegation;other
+ACME,A64707,2013-05-07,2013-05-05,14494.60,Joelle Botsford,Qui ea unde.,other,other
+Microsoft,M49034,11-12-2012,03-12-2012,11200.59,Reuben McClure,Nisi vel eveniet cupiditate fugit voluptatem sint.,rejected,Delegation;client
+SB Komputery,S59872,08-11-2014,05-11-2014,11489.10,Dr. Lenna Homenick,"Nemo nesciunt et voluptas sed.
+Veritatis placeat inventore consequatur.",rejected,Negligible;internal
+ SB Komputery,S33292,01/27/2015,01/20/2015,17785.67,Devante Beatty,"Dolorem exercitationem sed natus hic expedita.
+Corrupti asperiores nulla voluptatem error et ab.",accepted,internal;Delegation;important
+MS Szpadel,M37965,2013-03-15,2013-03-06,18779.74,Mac Hyatt,Quia vero beatae distinctio sapiente est.,rejected,delegation;client;other;internal;Important
+Microsoft,M78364,01/09/2014,01/04/2014,14447.18,Watson Pacocha,"Magni corrupti debitis quidem.
+Temporibus maxime voluptatem ullam consequatur voluptatum.",accepted,important
+" Monterail, Inc.",M24646,2014-05-31,2014-05-31,17307.35,Lazaro Beer DDS,"Voluptate ut quaerat delectus doloremque assumenda quas.
+Voluptas qui officia esse.",accepted,Other;internal
+ACME,A64746,10/04/2013,09/27/2013,16279.13,Ms. Daphney Cruickshank,Possimus est amet et ut est.,rejected,negligible;important;Internal;other
+ SB Komputery,S45833,2014-12-08,2014-12-03,11843.14,Adrain Sauer IV,Aut accusamus excepturi perferendis est.,other,internal;delegation
+Big Company 1,B64271,2014-08-31,2014-08-26,12474.77,Yasmeen Murazik,"Culpa nisi quia dolorem quidem sed.
+Accusamus et possimus quasi aut explicabo provident nihil.
+In aperiam qui nihil soluta eos ad.
+Id molestias ullam.",accepted,client
+ Big Company 1,B88801,21-05-2013,21-05-2013,16822.80,Sage Kub,Laboriosam mollitia in et laudantium est natus.,rejected,negligible;Delegation;internal
+ Ostrzy Entertainment,O32744,26-12-2014,23-12-2014,16430.1,Terrill Anderson,Dolorem id quo eos et tenetur sed.,accepted,Important;Internal;Client;delegation
+ Ostrzy Entertainment,O19363,07/25/2013,07/20/2013,10808.55,Dr. Kyleigh Jacobi,Impedit voluptas non assumenda praesentium sunt qui exercitationem.,other,
+ KT Koty,K79966,05-01-2014,05-01-2014,16597.56,Marlin Runolfsdottir,Id nulla architecto.,other,negligible;Internal;Important;other
+ Big Company 1,B69589,2014-02-23,2014-02-14,14993.17,Hilma Kuhn,"Occaecati eos natus rerum quia dolor atque.
+Eos iure deleniti rerum tempora laborum laudantium ut.
+Qui dolores eaque.",rejected,internal;Delegation;Negligible;important
+Company X,C17071,2015-05-27,2015-05-25,11602.36,Dr. Brandi Haley,"Beatae quidem omnis numquam molestiae autem quis labore.
+Ipsam et qui repellat aperiam dolor consequatur non.
+Voluptas quis nihil sapiente doloribus eligendi fuga mollitia.
+Dolorum impedit quos libero consequatur unde ratione enim.",other,delegation
+ TT Internet,T45720,2014-04-24,2014-04-20,17448.81,Connor Greenholt,Est impedit eum corrupti voluptatem delectus asperiores ullam.,other,Negligible;important;internal;delegation;Other
+ TT Internet,T77998,11/22/2014,11/21/2014,16647.98,Shanna Morar,Quo non voluptatem rem.,other,other
+ Wesoła Gżegżółka,W39082,10-10-2013,02-10-2013,16210.24,Mr. Javon Tromp,Laboriosam distinctio maiores.,accepted,Important
+Wesoła Gżegżółka,W17675,08/05/2014,07/27/2014,18827.79,Marianne Nader,Voluptate et quia.,accepted,client
+ Microsoft,M66458,10/27/2014,10/20/2014,12567.3,Dallas Jones,Et quae hic vitae quaerat amet.,accepted,Internal;negligible
+ KT Koty,K45477,27-08-2014,20-08-2014,14428.45,Henriette Kunde,"Recusandae nisi perferendis velit et tenetur quo voluptatem.
+Enim assumenda est numquam eius cumque omnis nostrum.",other,Negligible;delegation;Client
+BP Biznes,B55917,11/03/2012,10/31/2012,17708.12,Vern Dibbert,"Reiciendis iusto voluptas eaque aut nulla.
+Itaque harum et.
+Corrupti non culpa.",rejected,internal;Other
+SB Komputery,S97610,2013-08-03,2013-07-26,18899.48,Modesto Jerde,Eos sit debitis.,accepted,other;negligible
+ KT Koty,K45439,2012-10-21,2012-10-12,13389.7,Idell Beahan,"Quos consequatur voluptatem sunt aspernatur natus.
+Quia omnis nulla voluptas laboriosam at non.",other,other;important;client
+ SB Komputery,S21968,04-06-2014,29-05-2014,13488.52,Ewell Ledner PhD,"Laboriosam nemo distinctio.
+Explicabo illo saepe expedita.",rejected,important;internal;negligible;delegation;client
+Company X,C64943,17-08-2013,10-08-2013,13606.86,Milan Reichel,Amet voluptatem in perspiciatis animi.,accepted,negligible;Other;client
+ Big Company 1,B67185,2015-03-06,2015-03-02,13306.57,Coy Schumm,"Quaerat vel esse.
+Molestiae aliquid nulla et voluptatem expedita dignissimos itaque.",rejected,delegation;internal;client;important
+Comcast,C18865,14-12-2012,08-12-2012,13531.55,Frankie Schultz,Totam ullam rem eum beatae ut earum.,rejected,client;Internal
+Ostrzy Entertainment,O5021,2014-09-18,2014-09-17,14297.56,Talia Conroy,"Tempore quis autem laboriosam nobis assumenda voluptatem.
+Et distinctio deleniti voluptatem quis.
+Debitis ullam qui sunt similique aut.
+Dolorem quaerat impedit harum consequatur omnis sint id.",rejected,Internal;Other;Negligible;delegation;client
+Company X,C47238,01/16/2015,01/11/2015,10503.63,Maia Mraz,Nulla possimus dolorum asperiores ad.,other,Internal;Other;client
+Ostrzy Entertainment,O46110,13-06-2014,05-06-2014,16219.78,Dr. Cristina Bechtelar,"Distinctio aut molestiae est delectus consectetur est.
+Aliquam aspernatur et et.
+Qui est sunt.
+Dolorem eveniet asperiores.",rejected,Negligible;Other;Delegation;important;client
+ Company X,C17815,09-04-2014,07-04-2014,15352.56,Violet Grady,Vero commodi inventore cupiditate et sit.,accepted,Other;internal
+ Comcast,C22487,07/23/2013,07/21/2013,13094.26,Eugenia Mills III,Sed repellendus qui quia rem aut ratione.,accepted,Client;delegation;internal;other
+ Ostrzy Entertainment,O39753,2012-11-04,2012-10-30,16389.46,Dr. Jesse Reilly,Voluptatum at placeat sit impedit.,other,
+ Wesoła Gżegżółka,W97503,21-03-2015,21-03-2015,16582.14,Claire Hermiston,Quia enim harum aut sunt molestiae rerum.,accepted,
+MS Szpadel,M37871,2013-03-22,2013-03-13,10099.6,Ms. Enoch Miller,"Autem amet nesciunt sed maxime modi.
+Magni non dolorum eos esse.
+Ea dolore quos et deserunt velit.
+Quis molestiae consectetur.",other,delegation;Client
+"Monterail, Inc.",M66273,2014-04-14,2014-04-07,11213.32,Dr. Adrien Kovacek,Magni quas et accusamus est soluta.,rejected,internal;delegation;important;negligible;other
+ Big Company 1,B38158,2013-02-27,2013-02-19,10441.89,Myrtie Corwin,"Et eos corporis.
+Occaecati enim est et et quaerat et consequatur.",other,delegation;other;negligible;Internal
+BP Biznes,B18074,2015-05-22,2015-05-21,12673.75,Darrin Altenwerth,Error voluptatibus ullam deleniti.,other,Other;negligible;internal;client
+MS Szpadel,M83648,18-12-2013,11-12-2013,11081.90,Ms. Ross Weber,"Aut cumque consequuntur.
+Tempore maiores rem qui explicabo eos.",accepted,important;client
+ Wesoła Gżegżółka,W61169,2014-04-19,2014-04-13,13230.87,Marcella Lindgren,"Quod officia excepturi.
+Laboriosam corporis sequi.",rejected,internal
+MS Szpadel,M25709,2012-11-26,2012-11-23,12261.2,Furman Carroll I,Doloremque nihil accusamus.,accepted,Internal;other;negligible;Delegation
+BP Biznes,B15537,2014-01-29,2014-01-28,19272.12,Jayden Cartwright,Iusto omnis maiores aliquid.,other,
+ Ostrzy Entertainment,O34181,01/22/2015,01/21/2015,19482.26,Roel Keebler DVM,Nulla perspiciatis et est odit.,other,
+Big Company 1,B10217,20-01-2014,19-01-2014,19610.48,Lenna Abbott,Ut et quibusdam exercitationem quia.,other,negligible;internal;other;Important
+SB Komputery,S35653,15-08-2013,09-08-2013,10448.36,Era Smith PhD,Dolores aliquam et error sit.,rejected,Important
+ Ostrzy Entertainment,O6462,27-02-2014,18-02-2014,17712.19,Maurice Jones,Illum sed ut tempore minus.,accepted,important;internal;Negligible
+" Monterail, Inc.",M93000,03/02/2013,02/23/2013,10088.30,Jedidiah Zulauf Jr.,"Sit dolor corrupti adipisci eaque.
+Est molestiae a sunt natus quia sapiente repudiandae.
+Laudantium consequatur veritatis.
+Officiis praesentium explicabo et est sequi.",other,negligible;Delegation;Other;internal
+ MS Szpadel,M43300,2013-10-26,2013-10-23,15572.64,Meredith Lang,Aperiam dolor perferendis nam.,rejected,negligible
+KT Koty,K1910,13-03-2015,11-03-2015,11848.51,Frederick Morissette,Voluptatem amet praesentium laborum libero tenetur qui.,rejected,Important;Internal;negligible
+ KT Koty,K38817,2013-08-02,2013-08-02,14584.6,Marjorie Hoeger,Dolor ut beatae.,accepted,delegation;negligible
+" Monterail, Inc.",M18904,2013-02-07,2013-01-30,10695.32,Carleton O'Reilly I,"Vero id numquam ipsa praesentium dicta sit harum.
+Commodi dolorem sed et.",rejected,Client
+ACME,A28384,12-08-2014,04-08-2014,17895.13,Lorena McLaughlin,Velit accusamus quaerat non blanditiis occaecati aspernatur et.,accepted,other
+ KT Koty,K66151,02-04-2013,29-03-2013,11487.89,Ken Hudson DDS,Voluptatem aut quisquam.,other,negligible
+MS Szpadel,M91352,13-08-2014,09-08-2014,10424.33,Assunta Shields,Velit libero iusto dolorem atque omnis voluptatibus odit.,rejected,Important;negligible
+ Ostrzy Entertainment,O92938,03/12/2015,03/08/2015,11093.34,Delbert Abbott,"Enim rerum fuga quia eveniet quam est.
+Fuga modi dignissimos et ex.",rejected,delegation;important
+KT Koty,K99968,11/02/2013,10/31/2013,17876.5,Samir Bins,A mollitia vel omnis et quaerat.,accepted,Other
+ MS Szpadel,M66983,2014-11-16,2014-11-07,12666.0,Eduardo Braun,Beatae accusantium porro minima voluptas quo.,other,other;delegation
+ Microsoft,M92001,2014-02-20,2014-02-13,19866.61,Jerome Howe,Voluptas non praesentium.,rejected,
+TT Internet,T70420,2014-03-06,2014-03-03,11282.86,Dr. Teresa Hirthe,"Praesentium ad fugiat.
+Velit qui et nesciunt nostrum eum error maxime.
+Esse dolor necessitatibus a nihil ut sed.
+Accusamus voluptatibus eaque.",accepted,
+ Comcast,C9331,2015-02-22,2015-02-21,17694.1,Miss Jo Ritchie,"Et architecto dicta.
+Est dolore eos consequatur quibusdam.
+Dolor et quia enim enim.
+Minus qui et assumenda sed quia nisi.",accepted,
+MS Szpadel,M38916,09/22/2014,09/16/2014,11515.88,Mr. Jayda Batz,Provident quos beatae qui iusto et.,accepted,Internal;Negligible;Other
+ Microsoft,M80996,01/11/2013,01/10/2013,16429.21,Jacinto Turner II,Non quas odit blanditiis impedit qui eum at.,rejected,client;delegation
+ TT Internet,T70920,12/12/2012,12/09/2012,13651.26,Evan Koepp,Occaecati doloremque magnam repudiandae reprehenderit.,rejected,internal;other;client;delegation;Negligible
+Company X,C62689,02/11/2014,02/09/2014,18093.15,Kayli Schmidt,Hic cum et odio atque neque placeat sint.,rejected,Internal
+Big Company 1,B92514,2014-01-19,2014-01-18,17316.42,Ludie Treutel,Fuga eos aspernatur vitae optio atque eum.,other,Delegation;internal;Negligible;Important

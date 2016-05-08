@@ -15,17 +15,31 @@
 		</tr>
 	</thead>
 </table>	
-
-<% @filtered_data.each do |operation| %>
-	Company: <%= operation.company.try(:name) %>
-	<%= operation.invoice_num%>
-	<%= operation.invoice_date.month%>
-	<%= operation.operation_date%>
-	<%= operation.amount%>
-	<%= operation.reporter%>
-	<%= operation.notes%>
-	<%= operation.status%>
-	<%= operation.kind%>
-	<br><br>
+<%if @kind == 'kind' %>
+<% @filtered_data.each do |kind| %>
+	<% kind.operations.each do |operation|%>
+		Company: <%= operation.company.try(:name) %>
+		<%= operation.invoice_date.month%>
+		<%= operation.operation_date%>
+		<%= operation.amount%>
+		<%= operation.reporter%>
+		<%= operation.notes%>
+		<%= operation.status%>
+		<%= operation.kind%>
+		<br><br>
+	<%end%>
 <%end%>
-
+	<br><br>
+<%else%>
+	<% @filtered_data.each do |operation| %>
+		Company: <%= operation.company.try(:name) %>
+		<%= operation.invoice_num%>
+		<%= operation.invoice_date.month%>
+		<%= operation.operation_date%>
+		<%= operation.amount%>
+		<%= operation.reporter%>
+		<%= operation.notes%>
+		<%= operation.status%>
+		<%= operation.kind%>
+	<%end%>
+<%end%>

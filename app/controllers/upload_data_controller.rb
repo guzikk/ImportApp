@@ -24,8 +24,12 @@ class UploadDataController < ApplicationController
 				end
 
 				if h[:kind] == nil
-					h[:kind] = "MISSING"
+					h[:kind] = "missing"
 				end
+
+				h[:kind] = h[:kind].downcase
+				h[:status] = h[:status].downcase	
+
 			end
 		end
 
@@ -51,6 +55,7 @@ class UploadDataController < ApplicationController
 			@kind = kind2.kind.split(";")
 			@kind.each_with_index do |kind,index| 
 				@category = Category.create(:operation_id => kind2["id"], :name=>kind)
+				@link = Link.create(:operation_id => kind2["id"], :category_id=>@category.id)
 			end
 		end	
 
