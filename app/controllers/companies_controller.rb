@@ -6,7 +6,7 @@ class CompaniesController < ApplicationController
   	@accepted = Operation.accepted
     @average_amount = average_amount
   	@highest_operation = highest
- 	end
+  end
 
   def export_data #eport data to csv file
     @company_export = Company.find(params[:id]) 
@@ -21,7 +21,8 @@ class CompaniesController < ApplicationController
   def create
   end
 
-  def filter #filter operations using scopes
+  def filter #filter operations using scopes, I had problem with many_to_many associations, that's way I sort kind by easy way  
+
     @filtered_data = []
     kind = params[:filter_var]
     @filtered_data=Operation.kind(params[:value])

@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160430122559) do
+ActiveRecord::Schema.define(version: 20160507223817) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -25,19 +25,21 @@ ActiveRecord::Schema.define(version: 20160430122559) do
 
   add_index "categories", ["operation_id"], name: "index_categories_on_operation_id", using: :btree
 
-  create_table "categories_operations", id: false, force: :cascade do |t|
-    t.integer "operation_id"
-    t.integer "category_id"
-  end
-
-  add_index "categories_operations", ["category_id"], name: "index_categories_operations_on_category_id", using: :btree
-  add_index "categories_operations", ["operation_id"], name: "index_categories_operations_on_operation_id", using: :btree
-
   create_table "companies", force: :cascade do |t|
     t.string   "name",       null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
+
+  create_table "links", force: :cascade do |t|
+    t.integer  "category_id"
+    t.integer  "operation_id"
+    t.datetime "created_at",   null: false
+    t.datetime "updated_at",   null: false
+  end
+
+  add_index "links", ["category_id"], name: "index_links_on_category_id", using: :btree
+  add_index "links", ["operation_id"], name: "index_links_on_operation_id", using: :btree
 
   create_table "operations", force: :cascade do |t|
     t.string   "invoice_num",                             null: false
@@ -56,4 +58,6 @@ ActiveRecord::Schema.define(version: 20160430122559) do
   add_index "operations", ["company_id"], name: "index_operations_on_company_id", using: :btree
 
   add_foreign_key "categories", "operations"
+  add_foreign_key "links", "categories"
+  add_foreign_key "links", "operations"
 end

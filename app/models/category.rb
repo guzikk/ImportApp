@@ -1,4 +1,5 @@
 class Category < ActiveRecord::Base
-	has_and_belongs_to_many :operations		
+	has_many :links
+	has_many :operations, through: :links		
 	validates_presence_of :name
 end

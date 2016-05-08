@@ -1,8 +1,11 @@
 class Operation < ActiveRecord::Base
   require 'csv'
 
-  belongs_to :company, :foreign_key => "company_id"
-  has_and_belongs_to_many :categories
+  belongs_to :company
+  has_many :links
+  has_many :categories, through: :links
+
+
 
   validates_presence_of :invoice_num, :invoice_date, :amount, :operation_date, :kind, :status
   validates_numericality_of :amount, greater_than: 0
