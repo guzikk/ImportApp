@@ -54,7 +54,7 @@ class UploadDataController < ApplicationController
 		@operation.each do |kind2|
 			@kind = kind2.kind.split(";")
 			@kind.each_with_index do |kind,index| 
-				@category = Category.create(:operation_id => kind2["id"], :name=>kind)
+				@category = Category.create(:name=>kind)
 				@link = Link.create(:operation_id => kind2["id"], :category_id=>@category.id)
 			end
 		end	

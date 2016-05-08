@@ -17,13 +17,10 @@ ActiveRecord::Schema.define(version: 20160507223817) do
   enable_extension "plpgsql"
 
   create_table "categories", force: :cascade do |t|
-    t.string   "name",         null: false
-    t.datetime "created_at",   null: false
-    t.datetime "updated_at",   null: false
-    t.integer  "operation_id"
+    t.string   "name",       null: false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
   end
-
-  add_index "categories", ["operation_id"], name: "index_categories_on_operation_id", using: :btree
 
   create_table "companies", force: :cascade do |t|
     t.string   "name",       null: false
@@ -57,7 +54,6 @@ ActiveRecord::Schema.define(version: 20160507223817) do
 
   add_index "operations", ["company_id"], name: "index_operations_on_company_id", using: :btree
 
-  add_foreign_key "categories", "operations"
   add_foreign_key "links", "categories"
   add_foreign_key "links", "operations"
 end
