@@ -1,24 +1,24 @@
-<%= link_to "Back", action: 'index'%>
+<%= link_to 'Back', action: 'index'%>
 <br><br>
 <table>
 	<thead>
 		<tr>
-			<th>Company; </th>
-			<th>Invoice Num; </th>
-			<th>Invoice Date; </th>
-			<th>Operation Date; </th>
-			<th>Amount; </th>
-			<th>Reporter; </th>
-			<th>Notes; </th>
-			<th>Status; </th>
-			<th>Kind; </th>
+			<th>Company;</th>
+			<th>Invoice Num;</th>
+			<th>Invoice Date;</th>
+			<th>Operation Date;</th>
+			<th>Amount;</th>
+			<th>Reporter;</th>
+			<th>Notes;</th>
+			<th>Status;</th>
+			<th>Kind;</th>
 		</tr>
 	</thead>
 </table>	
-<%if @kind == 'kind' %>
-<% @filtered_data.each do |kind| %>
+<%if @kind == 'kind'%>
+<% @filtered_data.each do |kind|%>
 	<% kind.operations.each do |operation|%>
-		Company: <%= operation.company.try(:name) %>
+		Company: <%= operation.company.try(:name)%>
 		<%= operation.invoice_date.month%>
 		<%= operation.operation_date%>
 		<%= operation.amount%>
@@ -31,8 +31,8 @@
 <%end%>
 	<br><br>
 <%else%>
-	<% @filtered_data.each do |operation| %>
-		Company: <%= operation.company.try(:name) %>
+	<% @filtered_data.each do |operation|%>
+		Company: <%= operation.company.try(:name)%>
 		<%= operation.invoice_num%>
 		<%= operation.invoice_date.month%>
 		<%= operation.operation_date%>

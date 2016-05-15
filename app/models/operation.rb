@@ -5,8 +5,6 @@ class Operation < ActiveRecord::Base
   has_many :links
   has_many :categories, through: :links
 
-
-
   validates_presence_of :invoice_num, :invoice_date, :amount, :operation_date, :kind, :status
   validates_numericality_of :amount, greater_than: 0
   validates_uniqueness_of :invoice_num
@@ -27,7 +25,7 @@ class Operation < ActiveRecord::Base
         if emp.company
           values = emp.company.attributes.slice("name").values
         end
-        values += emp.attributes.slice("invoice_num", "invoice_date" "operation_date" "amount", "reporter", "notes", "status", "kind").values
+        values += emp.attributes.slice('invoice_num', 'invoice_date', 'operation_date', 'amount', 'reporter', 'notes', 'status', 'kind').values
         csv.add_row values
       end
     end

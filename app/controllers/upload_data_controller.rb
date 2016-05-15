@@ -9,7 +9,7 @@ class UploadDataController < ApplicationController
 		rows = 0
 		@data3 = Company.all
 		file = Rails.root.join(params[:file].original_filename)
-		@data= SmarterCSV.process(file, headers: true, chunk_size:1000, col_sep: ",", remove_empty_values: false, verbose: true, :key_mapping => {:company => :company_id})  
+		@data= SmarterCSV.process(file, headers: true, chunk_size:1000, col_sep: ',', remove_empty_values: false, verbose: true, :key_mapping => {:company => :company_id})  
 	
 		@data.each do |data2|
 			data2.each do |h|
@@ -24,7 +24,7 @@ class UploadDataController < ApplicationController
 				end
 
 				if h[:kind] == nil
-					h[:kind] = "missing"
+					h[:kind] = 'missing'
 				end
 
 				h[:kind] = h[:kind].downcase
@@ -55,7 +55,7 @@ class UploadDataController < ApplicationController
 			@kind = kind2.kind.split(";")
 			@kind.each_with_index do |kind,index| 
 				@category = Category.create(:name=>kind)
-				@link = Link.create(:operation_id => kind2["id"], :category_id=>@category.id)
+				@link = Link.create(:operation_id => kind2['id'], :category_id=>@category.id)
 			end
 		end	
 

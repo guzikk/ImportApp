@@ -26,13 +26,14 @@ class CompaniesController < ApplicationController
     @filtered_data = []
     @kind = params[:filter_var]
     value = params[:value].downcase
-    if @kind == 'status'   
+    case @kind 
+    when 'status'   
       @filtered_data=Operation.status(value)
-    elsif @kind == 'kind'
+    when 'kind'
       @filtered_data=Category.kind(value)
-    elsif @kind == 'invoice_num'
+    when 'invoice_num'
       @filtered_data=Operation.invoice_num(value)
-    elsif @kind == 'reporter'
+    when 'reporter'
       @filtered_data=Operation.reporter(value)
     end
   end
